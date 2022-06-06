@@ -1,0 +1,7 @@
+<?php
+declare(strict_types=1);
+
+DEFINE('ENV_DOCTRINE_DBNAME', '');
+DEFINE('ENV_DOCTRINE_USER', '');
+DEFINE('ENV_DOCTRINE_PASSWORD', '');
+
