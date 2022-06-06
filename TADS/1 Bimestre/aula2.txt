@@ -1,0 +1,5 @@
+php pode ser utilizado junto com o html
+tags/sintaxes php
+php: atribuindo variavel por valor ou referencia
+aspas simples: imprime literalmente o nome da variável
+php atribui automaticamente o tipo da váriavel (gettype pega o tipo atribuido)

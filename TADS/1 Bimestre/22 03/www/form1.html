@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="processa.php" method="POST">
+        Nome: <input type="text" name="nome"> <br>
+        Email: <input type="text" name="email" id="email"> <br>
+        Endereco: <input type="text" name="endereco" id="endereco"> <br>
+        <label for="profissao">Profissao: </label>
+		<select name="profissao">
+			<option value="Engenheiro de Software">Engenheiro de Software</option>
+			<option value="Analista de Seguranca de Informacao">Analista de Seguranca de Informacao</option>
+			<option value="Analista de Sistemas">Analista de Sistemas</option>
+			<option value="Administrador de Sistemas">Administrador de Sistemas</option>
+			<option value="Administrador do banco de dados">Administrador do banco de dados</option>
+			<option value="Gestor de tecnologias da informacao">Gestor de tecnologias da informacao</option>
+			<option value="Arquiteto de redes">Arquiteto de redes</option>
+			<option value="Desenvolvedor">Desenvolvedor</option>
+		</select> <br>
+        Genero: <br> <input type="radio" name="genero" id="masculino" value="Masculino"> <label for="masculino">Masculino</label><br>
+		<input type="radio" name="genero" id="feminino" value="Feminino"> <label for="feminino">Feminino</label><br>
+		<input type="radio" name="genero" id="naoInformado" value="Nao Informado"> <label for="naoInformado">Nao Informado</label><br>
+		<input type="radio" name="genero" id="outro" value="Outro: "> <label for="outro">Outro (Qual?)</label> <input type="text" name="outroql" id="outroql"> <br>
+        Escolha suas areas de interesse: <br> <input type="checkbox" name="areasInteresse[]" id="bd" value="Banco de dados"> <label for="bd">Banco de dados</label> 
+		<input type="checkbox" name="areasInteresse[]" id="es" value="Engenharia de Software"> <label for="es">Engenharia de Software</label> 
+		<input type="checkbox" name="areasInteresse[]" id="rc" value="Redes de computadores"> <label for="rc">Redes de computadores</label> <br>
+		<input type="checkbox" name="areasInteresse[]" id="dj" value="Desenvolvedor de jogos"> <label for="dj">Desenvolvedor de jogos</label>
+		<input type="checkbox" name="areasInteresse[]" id="bend" value="Programacao Back End"> <label for="bend">Programacao Back End</label>
+		<input type="checkbox" name="areasInteresse[]" id="fend" value="Programacao Front End"> <label for="fend">Programacao Front End</label>
+		<input type="checkbox" name="areasInteresse[]" id="md" value="Mineracao de dados"> <label for="md">Mineracao de dados</label> <br>
+        Fale Conosco: <input type="textarea" name="faleConosco" id="faleConosco"> <br>
+		Quer receber nossas promocoes? <input type="checkbox" name="promocoes" id="promocoes" value="Sim"> <br>
+        Senha: <input type="text" name="senha" id="senha"> <br>
+        Confirme a senha: <input type="text" name="senha2" id="senha2"> <br>
+        <input type="submit" value="Confirma">
+    </form>
+</body>
+</html>

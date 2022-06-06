@@ -1,0 +1,1089 @@
+
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8" />
+
+    <title>Técnicas atuais em desenvolvimento de software</title>
+
+    <link href="css/impress.css" rel="stylesheet"/>
+    <link href="css/prettify.css" rel="stylesheet"/>
+    <link href="css/animation.css" rel="stylesheet"/>
+    <link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css/fonts.css" rel="stylesheet"/>
+    <link href="css/two-step.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/googlecode.css">
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jmpress.impress.js"></script>
+    <script src="js/google-code-prettify/prettify.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+</head>
+<body>
+
+    <div id="impress">
+
+        <div class="step step-title" data-y="-800">
+            <div class="jumbotron text-center">
+                <h1>
+                    <span class="alert-warning"> &nbsp; TÉCNICAS ATUAIS EM &nbsp; <br>
+                        &nbsp;DESENVOLVIMENTO DE &nbsp; <br>SOFTWARE&nbsp;</span>
+                </h1>
+                <div class="img1"></div>
+
+                <footer>
+               
+                    <h2>Prof. Ms. Gildo de Almeida Leonel</h2>
+                    <h3><span class="text-info">gleonel@viannajr.edu.br</span></h3>
+               		<img src="img/logo-Copia.png" style="position: relative;">
+              </footer>
+
+            </div>
+        </div>
+
+        <!-- SINTAXE Básica -->
+
+        <div class="step step-slide">
+            <h1 class="text-center text-v-center">Sintaxe Básica</h1>
+
+
+
+        </div>
+
+        <div class="step step-slide" data-x="2600">
+            <h1><a href="http://www.php.net/variables">Variáveis</a></h1>
+            <pre class="text-highlighted"><span class="color2">$name = value</span>;
+            </pre>
+
+            <pre><code class="php">
+                $username = 'bob78';
+                $age = 16;
+                $phpRocks = TRUE;
+                $éléphant = "nome de variável válido";</code>
+            </pre>
+
+
+            <ul class="text-right">
+                <li>Nomes são case sensitive</li>
+                <li>As declaração são implícitas através da atribuição; </li>
+                <li><a href="http://www.php.net/gettype"><code>gettype</code></a>, <a href="http://www.php.net/settype"><code>settype</code></a> acessam e modificam o tipo de uma variável.</li>
+            </ul>
+        </div>
+
+        <div class="step step-slide" data-x="3900" >
+            
+
+             <pre >
+                 <code class="php">
+&lt;?php
+$var = 'Bob';
+$Var = 'Joe';
+echo "$var, $Var &ltbr>";  // exibe "Bob, Joe"
+
+$4site = 'inválido';// inválido; começa com um número
+$_4site = 'válido';  // válido; começa com um sublinhado
+$täyte = 'mansikka'; // válido; 'ä' é um caracter ASCII (extendido) 228
+?>
+                </code>
+             </pre>
+           
+        </div>
+
+
+        <div class="step step-slide" data-x="5200">
+           <h2> Por padrão, as variáveis são sempre atribuídas por valor.</h2>
+            <pre>
+                <code class="php">
+&lt?php
+$foo = 'Bob';              // Atribui o valor 'Bob' a variável $foo
+$bar = $foo;              // Atribui $foo para $bar.
+$bar = "Meu nome é $bar";  // Altera $bar...
+echo $bar;
+echo $foo;                 // $foo não é alterada.
+?>
+                </code>
+            </pre>
+
+        </div>
+
+        <div class="step step-slide" data-x="6500">
+            <h2>Para serem atribuídas por referência utiliza-se &</h2>
+            <pre>
+                <code class="php">
+&lt?php
+$foo = 'Bob';              // Atribui o valor 'Bob' a variável $foo
+$bar =  &$foo;             // Referecia $foo através de $bar.
+$bar = "Meu nome é $bar";  // Altera $bar...
+echo $bar;
+echo $foo;                 // $foo é alterada também.
+?>
+                </code>
+            </pre>
+
+        </div>
+
+        <div class="step step-slide" data-x="7800">
+
+            <pre>
+                <code class="php">
+        echo "Será mostrado o valor da variável: $var";
+        echo 'Será mostrado o nome da variável: $var';
+                </code>
+            </pre>
+
+            <ul>
+                <li>&bullet; strings dentro de  <code>""</code> são <span class="color2">interpretadas</span>:
+                    <ul>
+                        <li>uma abordagem mais simples que concatenação<br>
+                            tornando mais fácil formatar o texto de saída<br><br></li>
+                    </ul>
+                </li>
+                <li>&bullet; strings dentro de <code>' '</code> não são interpretadas</li>
+            </ul>
+
+
+        </div>
+
+
+        <div class="step step-slide" data-y="800" >
+            <h1>Comentários</h1>
+
+<pre class="text-highlighted">
+        <span class="color2">#</span> <span class="color1">Comentário simples</span>
+
+        <span class="color2">//</span> <span class="color1">Comentário simples</span>
+
+        <span class="color2">/*</>
+        <span class="color1">Comentário em várias linhas</span>
+    <span class="color2">*/</>
+</pre>
+
+            <ul>
+                <li>assim como em Javascript, <code>#</code> também é permitido
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="step step-slide"  data-y="800" data-x="1600">
+            <h1>
+                Tipos
+            </h1>
+
+            <ul>
+                <li>Tipos básicos:
+                    <a href="http://www.php.net/manual/en/language.types.integer.php"><code>int</code></a>,
+                    <a href="http://www.php.net/manual/en/language.types.float.php"><code>float</code></a>,
+                    <a href="http://www.php.net/manual/en/language.types.boolean.php"><code>boolean</code></a>,
+                    <a href="http://www.php.net/manual/en/language.types.string.php"><code>string</code></a>,
+                    <a href="http://www.php.net/manual/en/language.types.array.php"><code>array</code></a>,
+                    <a href="http://www.php.net/manual/en/language.types.object.php"><code>object</code></a>,
+                    <a href="http://www.php.net/manual/en/language.types.null.php"><code>NULL</code></a>
+
+                    <ul>
+                        <li>testamos o tipo de uma variável com a função <code>is_<var>type</var></code>, e.x. <a href="http://www.php.net/manual/en/function.is-string.php"><code>is_string</code></a><br><br></li>
+                        <li><a href="http://www.php.net/gettype"><code>gettype</code></a> retorna o tipo de uma variável<br><br></li>
+                    </ul>
+                </li>
+                <li>PHP <a href="http://www.php.net/language.types.type-juggling">converte entre os tipos automaticamente</a> em vários casos:
+                    <ul>
+                        <li><code>string</code> &rarr; <code>int</code> auto conversão com o operador <code>+</code></li>
+                        <li><code>int</code> &rarr; <code>float</code> auto conversão com o operador <code>/</code></li>
+                    </ul>
+                </li>
+                <li>type-cast com <code>(<var>type</var>)</code>:
+                    <ul>
+                        <li><code>$age = <em>(int)</em> &quot;21&quot;;</code></li>
+                    </ul>
+                </li>
+            </ul>
+
+        </div>
+        <div class="step step-slide" data-y="800" data-x="2900">
+            <pre>
+                <code>
+&lt?php
+$foo = "0";  // $foo é uma string (ASCII 48)
+echo gettype($foo)."&ltbr>";
+$foo = $foo + 3;   // $foo agora é um integer (3)
+echo gettype($foo)."&ltbr>";
+$foo = $foo / 2;  // $foo agora é double (1.5)
+echo gettype($foo)."&ltbr>";
+?>
+                </code>
+            </pre>
+
+        </div>
+
+        <div class="step step-slide" data-y="800" data-x="4200">
+            <h1>
+                <a href="http://www.php.net/operators">Operadores</a>
+            </h1>
+
+            <ul class="text-center">
+                <li>
+                    <code>
+                        + - * / % . ++ -- <br />
+                        = += -= *= /= %= .=<br />
+                        == != === !== &gt; &lt; &gt;= &lt;= <br />
+                        &amp;&amp; || !
+                    </code>
+                </li>
+
+            </ul>
+
+        </div>
+        <div class="step step-slide" data-y="800" data-x="5500">
+
+            <table class="doctable table">
+                <caption><strong>Operadores Aritméticos</strong></caption>
+
+                <thead>
+                <tr>
+                    <th>Exemplo</th>
+                    <th>Nome</th>
+                    <th>Resultado</th>
+                </tr>
+
+                </thead>
+
+                <tbody class="tbody">
+                <tr>
+                    <td>-$a</td>
+                    <td>Negação</td>
+                    <td>Oposto de $a.</td>
+                </tr>
+
+                <tr>
+                    <td>$a + $b</td>
+                    <td>Adição</td>
+                    <td>Soma de $a e $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a - $b</td>
+                    <td>Subtração</td>
+                    <td>Diferença entre $a e $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a * $b</td>
+                    <td>Multiplicação</td>
+                    <td>Produto de $a e $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a / $b</td>
+                    <td>Divisão</td>
+                    <td>Quociente de $a por $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a % $b</td>
+                    <td>Módulo</td>
+                    <td>Resto de $a dividido por $b.</td>
+                </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+        <div class="step step-slide" data-y="800" data-x="6800">
+
+            <table class="doctable table">
+                <caption><strong>Operadores de Incremento/Decremento</strong><br><br></caption>
+
+                <thead>
+                <tr>
+                    <th>Exemplo</th>
+                    <th>Nome</th>
+                    <th>Efeito</th>
+                </tr>
+
+                </thead>
+
+                <tbody class="tbody">
+                <tr>
+                    <td>++$a</td>
+                    <td>Pré-incremento</td>
+                    <td>Incrementa $a em um, e então retorna $a.</td>
+                </tr>
+
+                <tr>
+                    <td>$a++</td>
+                    <td>Pós-incremento</td>
+                    <td>Retorna $a, e então incrementa $a em um.</td>
+                </tr>
+
+                <tr>
+                    <td>--$a</td>
+                    <td>Pré-decremento</td>
+                    <td>Decrementa $a em um, e então retorna $a.</td>
+                </tr>
+
+                <tr>
+                    <td>$a--</td>
+                    <td>Pós-decremento</td>
+                    <td>Retorna $a, e então decrementa $a em um.</td>
+                </tr>
+
+                </tbody>
+
+            </table>
+        </div>
+        <div class="step step-slide" data-y="800" data-x="8100">
+            <table class="doctable table">
+                <caption><strong>Operadores Lógicos<br><br></strong></caption>
+
+                <thead>
+                <tr>
+                    <th>Exemplo</th>
+                    <th>Nome</th>
+                    <th>Resultado</th>
+                </tr>
+
+                </thead>
+
+                <tbody class="tbody">
+                <tr>
+                    <td>$a and $b</td>
+                    <td>E</td>
+                    <td>Verdadeiro se tanto $a quanto $b são verdadeiros.</td>
+                </tr>
+
+                <tr>
+                    <td>$a &amp;&amp; $b</td>
+                    <td>E</td>
+                    <td>Verdadeiro se tanto $a quanto $b são verdadeiros.</td>
+                </tr>
+
+                <tr>
+                    <td>$a || $b</td>
+                    <td>OU</td>
+                    <td>Verdadeiro se $a ou $b são verdadeiros.</td>
+                </tr>
+                <tr>
+                    <td>$a or $b</td>
+                    <td>OU</td>
+                    <td>Verdadeiro se $a ou $b são verdadeiros.</td>
+                </tr>
+
+                <tr>
+                    <td>$a xor $b</td>
+                    <td>XOR</td>
+                    <td>Verdadeiro se $a ou $b são verdadeiros, mas não ambos.</td>
+                </tr>
+
+                <tr>
+                    <td>! $a</td>
+                    <td>NÃO</td>
+                    <td>Verdadeiro se $a não é verdadeiro.</td>
+                </tr>
+
+
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+        <div class="step step-slide" data-y="800" data-x="9400">
+
+            <table class="doctable table">
+                <caption><strong>Operadores Bit-a-bit</strong></caption>
+
+                <thead>
+                <tr>
+                    <th>Exemplo</th>
+                    <th>Nome</th>
+                    <th>Resultado</th>
+                </tr>
+
+                </thead>
+
+                <tbody class="tbody">
+                <tr>
+                    <td>$a &amp; $b</td>
+                    <td>E</td>
+                    <td>Os bits que estão ativos tanto em $a quanto em $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a | $b</td>
+                    <td>OU</td>
+                    <td>Os bits que estão ativos em $a ou em $b .</td>
+                </tr>
+
+                <tr>
+                    <td>$a ^ $b</td>
+                    <td>XOR</td>
+                    <td>
+                        Os bits que estão ativos em $a ou em $b, mas não em ambos, são ativados.
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>~ $a</td>
+                    <td>NÃO</td>
+                    <td>
+                        Os bits que estão ativos em $a não são ativados, e vice-versa.
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>$a &lt;&lt; $b</td>
+                    <td>Deslocamento à esquerda</td>
+                    <td>
+                        Desloca os bits de $a $b passos para a esquerda ("multiplica por dois")
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>$a &gt;&gt; $b</td>
+                    <td>Deslocamento à direita</td>
+                    <td>
+                        Desloca os bits de $a $b passos para a direita ("divide por dois")
+                    </td>
+                </tr>
+
+                </tbody>
+
+            </table>
+        </div>
+
+
+        <div class="step step-slide" data-y="1600">
+            <table class="doctable table text-small">
+                <caption><strong>Operadores de comparação</strong></caption>
+
+                <thead>
+                <tr>
+                    <th>Exemplo</th>
+                    <th>Nome</th>
+                    <th>Resultado</th>
+                </tr>
+
+                </thead>
+
+                <tbody class="tbody">
+                <tr>
+                    <td>$a == $b</td>
+                    <td>Igual</td>
+                    <td>Verdadeiro (<strong><code>TRUE</code></strong>) se $a é igual a $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a === $b</td>
+                    <td>Idêntico</td>
+                    <td>
+                        Verdadeiro (<strong><code>TRUE</code></strong>) se $a é igual a $b, e eles são do mesmo
+                        tipo (introduzido no PHP4).
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>$a != $b</td>
+                    <td>Diferente</td>
+                    <td>Verdadeiro se $a não é igual a $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a &lt;&gt; $b</td>
+                    <td>Diferente</td>
+                    <td>Verdadeiro se $a não é igual a $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a !== $b</td>
+                    <td>Não idêntico</td>
+                    <td>
+                        Verdadeiro de $a não é igual a $b, ou eles não são do mesmo
+                        tipo (introduzido no PHP4).
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>$a &lt; $b</td>
+                    <td>Menor que</td>
+                    <td>Verdadeiro se $a é estritamente menor que $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a &gt; $b</td>
+                    <td>Maior que</td>
+                    <td>Verdadeiro se $a é estritamente maior que $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a &lt;= $b</td>
+                    <td>Menor ou igual</td>
+                    <td>Verdadeiro se $a é menor ou igual a $b.</td>
+                </tr>
+
+                <tr>
+                    <td>$a &gt;= $b</td>
+                    <td>Maior ou igual</td>
+                    <td>Verdadeiro se $a é maior ou igual a $b.</td>
+                </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+
+        <div class="step step-slide" data-y="1600" data-x="1600">
+            <table class="doctable table text-small">
+                <caption><strong>Operadore de String </strong></caption>
+
+                <thead>
+                <tr>
+                    <th>Exemplo</th>
+                    <th>Nome</th>
+                    <th>Resultado</th>
+                </tr>
+
+                </thead>
+
+                <tbody class="tbody">
+                <tr>
+                    <td>$b = "Olá " . "mundo!";</td>
+                    <td>concatenação</td>
+                    <td>União das duas strings.</td>
+                </tr>
+                </tbody>
+            </table>
+
+        <table class="doctable table text-small">
+            <caption><strong>Operadores de Atribuição </strong></caption>
+
+            <thead>
+            <tr>
+                <th>Exemplo</th>
+                <th>Idêntico à</th>
+            </tr>
+
+            </thead>
+
+            <tbody class="tbody">
+                <tr>
+                    <td>$a += $b</td>
+                    <td>$a = $a + $b</td>
+                </tr>
+
+                <tr>
+                    <td>$a -= $b</td>
+                    <td>$a = $a - $b</td>
+                </tr>
+
+                <tr>
+                    <td>$a *= $b</td>
+                    <td>$a = $a * $b</td>
+                </tr>
+
+                <tr>
+                    <td>$a /= $b</td>
+                    <td>$a = $a / $b</td>
+                </tr>
+
+                <tr>
+                    <td>$a %= $b</td>
+                    <td>$a = $a % $b</td>
+                </tr>
+
+                <tr>
+                    <td>$a .= $b</td>
+                    <td>$a = $a . $b</td>
+                </tr>
+
+
+            </tbody>
+        </table>
+
+        </div>
+
+
+        <div class="step step-slide" data-y="1600" data-x="2900">
+            <h1> Processamento dos operadores</h1>
+<pre>
+    <code>
+$result = 2 * 2 + 3 * 3 + 5;
+       (= 4 + 3 * 3 + 5)  //Passos do processamento
+       (= 4 + 9 + 5)
+       (= 13 + 5)
+       (= 18)
+    </code>
+</pre>
+        </div>
+
+
+        <div class="step step-slide" data-y="2400" data-x="1600">
+            <h1><a href="http://us2.php.net/manual/en/control-structures.elseif.php"><code>if/else</code></a> </h1>
+<pre><code>if (<span class="color1">condição</span>) {
+    <span class="color1">declarações</span>;
+} <span class="color1">elseif</span> (<span class="color1">condição</span>) {
+    <span class="color1">declarações</span>;
+} else {
+    <span class="syntaxtemplate">declarações</span>;
+}</code>
+</pre>
+            <ul>
+                <li>apesar de <code>elseif</code> ser mais utilizado, <code>else if</code> também é suportado</li>
+            </ul>
+
+        </div>
+
+        <div class="step step-slide" data-y="2400" data-x="3200">
+            <h1><a href="http://us2.php.net/manual/pt_BR/control-structures.switch.php"><code>Switch </code></a> </h1>
+<pre><code>switch ($i) {
+    case 0:
+        echo "i é igual a 0";
+        break;
+    case 1:
+        echo "i é igual a 1";
+        break;
+    case 2:
+        echo "i é igual a 2";
+        break;
+    default:
+       echo "i não é igual a 0, 1 ou 2";
+}</code>
+</pre>
+
+
+        </div>
+
+        <div class="step step-slide" data-y="1600" data-x="4200">
+            <h1><a href="http://us2.php.net/manual/en/control-structures.for.php"><code>for</code></a> loop</h1>
+            <ul >
+
+            <li><pre>
+                <code>
+for (<span class="color1">inicialização</span>; <span class="color1">condição</span>; <span class="color1">atualização</span>) {
+    <span class="syntaxtemplate">declarações</span>;
+}
+                </code>
+            </pre>
+            </li>
+
+                </ul>
+
+        </div>
+
+
+        <div class="step step-slide" data-y="1600" data-x="5500">
+            <h1><a href="http://us2.php.net/manual/en/control-structures.for.php"><code>for</code></a> loop</h1>
+            <ul >
+
+                <li><pre>
+                <code>
+for (<span class="color1">$i = 0</span>; <span class="color1">$i <= 10</span>; <span class="color1">$i++</span>) {
+    echo "$i - ";
+}
+                </code>
+            </pre>
+
+                </li>
+
+
+            </ul>
+
+        </div>
+
+        <div class="step step-slide" data-y="1600" data-x="6800">
+            <h1><a href="http://us2.php.net/manual/en/control-structures.for.php"><code>for</code></a> loop</h1>
+            <ul >
+
+                <li>
+                    <p>Escreva um loop que imprima o quadrado de 1 até 20 da seguinte forma: <br>"O quadrado de 1 é 1."</p>
+                </li>
+
+                <li data-jmpress="fade">
+<pre><code>
+    for($i = 1; $i &lt;= 20; $i++) {
+    echo "&lt;p&gt;O quadrado $i é " . $i * $i . " &lt;/p&gt;";
+</code>
+</pre>
+                </li>
+
+            </ul>
+
+        </div>
+
+        <div class="step step-slide" data-y="1600" data-x="8200">
+            <h1><a href=""><code>while</code></a> loop</h1>
+
+<pre><code>while (<span class="color1">condição</span>) {
+    <span class="color1">declarações</span>;
+}</code>
+</pre>
+
+<pre><code>do {
+    <span class="color1">declarações</span>;
+} while (<span class="color1">condição</span>);</code>
+</pre>
+
+            <ul>
+                <li class="text-right"><code><a href="http://us2.php.net/manual/en/control-structures.break.php">break</a></code> e <code><a href="http://us2.php.net/manual/en/control-structures.continue.php">continue</a></code> também podem ser utilizados</li>
+            </ul>
+
+        </div>
+
+        <div class="step step-slide" data-y="1600" data-x="9500">
+            <h1><a href=""><code>while</code></a> loop</h1>
+
+<pre><code>
+    $i = 1;
+    while ($i <= 10) {
+        echo $i;
+        $i++;
+    }</code>
+</pre>
+
+        </div>
+
+        <div class="step step-slide" data-y="2400">
+            <h1><a href=""><code>do while</code></a> loop</h1>
+
+<pre><code>
+    $i = 0;
+    do {
+        echo $i;
+    } while ($i > 0);</code>
+</pre>
+
+        </div>
+
+
+
+
+        <div class="step step-slide" data-y="2400" data-x="5800">
+            <h2 class="text-center color2">
+                    Exercícios
+            </h2>
+            <ul>
+                <li>
+                    1-  Escreva um programa em php que tenha três variáveis: a, b e c.<br>
+                    <ul><li>
+                        a.  variável A recebe o seu primeiro nome;<br>
+                        b.  variável B recebe seu ultimo nome;<br>
+                        c.  Você deve imprimir a variável C que será a concatenação dos seus nomes;<br>
+                    </li></ul>  
+                <li>
+                <li>
+                    2-  Escreva um programa em php que imprima seu nome completo presente na variavel C com a cor azul em tamanho 12;
+                <li>
+                <li>
+                    3-  Crie um programa que tenha as variáveis:
+                    <ul><li>
+                        a.   nome1, cidade1 e insira as informações do primeiro aluno <br>
+                        b.  nome2, cidade1 e insira as informações do segundo aluno;<br>
+                        c.  Se o aluno1 e o aluno2 forem da mesma cidade imprima:
+                            Todos os alunos são da cidade: _______;<br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;d.  Caso contrário imprima:<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Os alunos são de cidades diferentes: ______ e _____  
+                    </li></ul>
+                </li>
+                
+            </ul>
+
+        </div>
+
+
+
+        <!-- AVISO -->
+<!--        <div class="step step-slide spoiler" data-x="1300">
+            <div class="jumbotron text-center">
+                <h1 class="margin-a-lot"><span class="text-success text-giant">AVISO</span></h1>
+            </div>
+        </div>-->
+
+
+
+        <!-- CITAÇÃO -->
+
+<!--        <div class="step step-slide" data-x="2600">
+            <h1>Citação</h1>
+
+            <blockquote>
+                <p>
+                    CITAÇÃO
+                </p>
+                <footer> &mdash; Autor</footer>
+            </blockquote>
+
+        </div>-->
+
+
+        <!-- IMAGEM  -->
+<!--        <div class="step step-slide" data-x="3900">
+            <div class="text-center">
+                <img class="graph" src=""/>
+                <img class="graph scale-to-fit-h" src=""/>
+            </div>
+        </div>-->
+
+        <!-- IMAGEM POP  -->
+ <!--       <div class="step spoiler" data-y="800" data-x="1300">
+            <div class="text-center">
+
+                <img class="graph scale-to-fit-h" src=""/>
+            </div>
+        </div>-->
+
+
+
+        <!-- CÓDIGO  -->
+
+
+       <!-- <div class="step nested-steps" data-y="800" data-x="6500">
+            <div class="row">
+                <div class="col-md-6">
+                    <pre class="prettyprint lang-java">
+                    void executedOnCpu0() {
+                        value = 10;
+                        finished = true;
+                    }
+                    </pre>
+                </div>
+                <div class="col-md-6">
+                    <pre class="prettyprint lang-java">
+                    void executedOnCpu1() {
+                        while(!finished);
+                        assert value == 10;
+                    }
+                    </pre>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="200">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h1>
+                            What could <i>possibly</i> go wrong?
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="350">
+                <div class="row">
+                    <div class="col-md-6">
+                        <pre class="prettyprint lang-java">
+                        finished: Exclusive
+                        value: Invalid
+                        </pre>
+                    </div>
+                    <div class="col-md-6">
+                        <pre class="prettyprint lang-java">
+                        finished: Invalid
+                        value: Exclusive
+                        </pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="500">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-6">
+                        <pre class="prettyprint lang-java">
+                        while(!finished);
+                        &larr; read(finished)
+                        </pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="550">
+                <div class="row">
+                    <div class="col-md-6">
+                        <pre class="prettyprint lang-java">
+                        value = 10;
+                        - store_buffer(value)
+                        &larr; invalidate(value)
+                        </pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="800">
+                <div class="row">
+                    <div class="col-md-6">
+                        <pre class="prettyprint lang-java">
+                        finished = true;
+                        - finished: Modified
+
+                        <span data-jmpress="fade">&rarr; read(finished)
+                        &larr; read_response(finished, true)
+                        - finished: Shared</span>
+                        </pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="900">
+                <div class="row">
+                    <div class="col-md-offset-6 col-md-6">
+                        <pre class="prettyprint lang-java">
+                        &rarr; read_response(finished, true)
+                        - finished: Shared (true)
+                        </pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="1000">
+                <div class="row">
+                    <div class="col-md-offset-6 col-md-6">
+                        <pre class="prettyprint lang-java">
+                        assert value == 10;
+                        </pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="1100">
+                <div class="row">
+                    <div class="col-md-offset-6 col-md-6">
+                        <div class="alert alert-danger">
+                            <p>
+                                Assertion fails
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="1230">
+                <div class="row">
+                    <div class="col-md-offset-6 col-md-6">
+                        <pre class="prettyprint lang-java">
+                        &rarr; invalidate(value)
+                        - value: Invalid
+                        &larr; invalidate_ack(value)
+                        </pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="1400">
+                <div class="row">
+                    <div class="col-md-offset-6 col-md-6">
+                        <div class="alert alert-danger">
+                            <p>
+                                Some stores <code>S<sub>1</sub></code> were placed to the Store Buffer <snan class="text-muted">(and unicorns)</snan>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="step visit-me" data-y="1570">
+                <div class="row">
+                    <div class="col-md-offset-6 col-md-6">
+                        <div class="alert alert-success">
+                            <p>
+                                Assertion passes
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+
+        <!-- CÓDIGO END -->
+
+
+
+
+        <!-- BOX -->
+
+<!--        <div class="step step-slide" data-y="2400" data-x="1300">
+            <h1>BOX</h1>
+
+            <div class="text-center well" data-jmpress="fade">
+                BOX TEXT
+            </div>
+        </div>-->
+
+
+
+        <!-- OVERVIEW -->
+
+  <!--      <div class="step step-slide spoiler" id="overview" data-z="2" data-x="3500" data-y="2000" data-scale="9">
+            <div class="text-center">
+                OVERVIEW
+            </div>
+        </div>-->
+
+
+
+        <!-- CODE SIDE ARROW 3 COLS -->
+
+ <!--       <div class="step step-slide" data-x="-1300" data-y="2000" data-rotate="90">
+            <h1>
+                Mere Visibility Is Often Not Enough
+            </h1>
+            <div class="row">
+                <div class="col-md-5" data-jmpress="fade">
+                        <pre class="prettyprint lang-java">
+                        class Foo {
+                            volatile int a;
+                            //...
+                            void bar() {
+                                a++;
+                            }
+                        }
+                        </pre>
+                </div>
+                <div class="col-md-2 text-center" data-jmpress="fade">
+                    <h1>&rarr;</h1>
+                </div>
+                <div class="col-md-5" data-jmpress="fade">
+                        <pre class="prettyprint lang-java">
+                        0: aload_0
+                        1: dup
+                        <span class="text-highlighted">2: getfield</span>
+                        5: iconst_1<span data-jmpress="appear" class="nocode text-danger"><br/>   &larr; Some other thread</span>
+                        6: iadd
+                        <span class="text-highlighted">7: putfield</span>
+                        10: return
+                        </pre>
+                </div>
+            </div>
+        </div>
+-->
+
+
+
+    </div>
+
+    <div id="laser"></div>
+
+    <script type="text/javascript">
+        !function ($) {
+            $(function(){
+
+                $('#impress').jmpress({
+                    "mouse": { clickSelects: false },
+                    "beforeChange": function(element, eventData) {
+                        element = $(element);
+                        if(element.is('tr') || element.hasClass("visit-me")) {
+                            element.addClass('visited'); // code should not be hidden after visiting
+                        }
+                    }
+                });
+
+                window.prettyPrint && prettyPrint()
+                $('body').mousemove(function(e){
+                    $('#laser').css('left', e.clientX).css('top', e.clientY);
+                });
+            });
+        }(window.jQuery)
+    </script>
+</body>
+</html>

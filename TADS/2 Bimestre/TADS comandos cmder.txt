@@ -1,0 +1,11 @@
+d:
+cd www/tads
+php artisan serve
+
+*novo terminal*
+d:
+cd www/tads
+php artisan route:list
+
+*novo controller*
+php artisan make:controller Admin/PostController

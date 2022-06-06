@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>Aula 3</h1>
+
+<?php
+	for ($n = 1; $n < 10; $n++):
+    	if ($n == 1) {$e = "elefante"; $i = "incomoda"; } /// duvida: como transformar isso numa função? 
+        else { $e = "elefantes"; $i = "incomodam"; }
+?>
+		<p><?= $n++." ".$e." ".$i ?> muita gente <br>
+        					<?php if ($n == 1) {$e = "elefante"; $i = "incomoda"; } 
+        					else { $e = "elefantes"; $i = "incomodam"; } ?>
+		<?= $n." ".$e  ?> <?= substr_replace(str_repeat($i.", ",$n),"", -2); ?> muito mais        	
+        </p>
+<?php
+	endfor;
+?>
+
+<?php
+	for ($n = 10; $n > 1; $n--):
+?>
+		<p><?= $n--." ".$e." ".$i ?> muita gente <br>
+        					<?php if ($n == 1) {$e = "elefante"; $i = "incomoda"; } 
+        					else { $e = "elefantes"; $i = "incomodam"; } ?>
+		<?= $n." ".$e ?> <?= substr_replace(str_repeat($i.", ",$n),"", -2); ?> muito menos        	
+        </p>
+<?php
+	endfor;
+?>
+
+
+</body>
+</html>

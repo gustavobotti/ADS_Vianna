@@ -1,0 +1,600 @@
+
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8" />
+
+    <title>Técnicas atuais em desenvolvimento de software</title>
+
+    <link href="css/impress.css" rel="stylesheet"/>
+    <link href="css/prettify.css" rel="stylesheet"/>
+    <link href="css/animation.css" rel="stylesheet"/>
+    <link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css/fonts.css" rel="stylesheet"/>
+    <link href="css/two-step.css" rel="stylesheet">
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jmpress.impress.js"></script>
+    <script src="js/google-code-prettify/prettify.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+    <div id="impress">
+
+        <div class="step step-title" data-y="-800">
+            <div class="jumbotron text-center">
+                <h1>
+                    <span class="alert-warning"> &nbsp; TÉCNICAS ATUAIS EM &nbsp; <br>
+                        &nbsp;DESENVOLVIMENTO DE &nbsp; <br>SOFTWARE&nbsp;</span>
+                </h1>
+                <div class="img1"></div>
+
+                <footer>
+               
+                    <h2>Prof. Ms. Gildo de Almeida Leonel</h2>
+                    <h3><span class="text-info">gleonel@viannajr.edu.br</span></h3>
+               		<img src="img/logo-Copia.png" style="position: relative;">
+              </footer>
+
+            </div>
+        </div>
+
+        
+
+        <div class="step step-slide" data-y="800" data-x="3700" >
+            <h1 class="text-smaller">Server-Side</h1>
+
+            <ul>
+                <li class="color2">
+                    &bullet; <strong>Server-Side: O Básico</strong>
+                </li>
+                <li>
+                    &bullet; História do PHP
+                </li>
+                <li>
+                    &bullet; PHP: Sintaxe Básica
+                </li>
+                <li>
+                    &bullet; PHP Embutido
+                </li>
+            </ul>
+        </div>
+
+        <div class="step nested-steps" data-y="200" data-x="4900">
+
+            <div class="step visit-me" data-y="500">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h1 class="color2">
+                            Server-Side: O Básico
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="600">
+                <div class="row">
+                    <h2><b>URLs e servidores web</b></h2>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="850">
+                <div class="row">
+                    <h2>
+                    http://<code>server</code>/<code>path</code>/<code>file</code>
+                    </code></h2>
+                    <br>
+                    <ul>
+                        <li>Normalmente quando você digita uma URL no seu navegador:
+                            <ul>
+                                <li>&bullet; seu computador procura o endereço IP do servidor usando DNS</li>
+                                <li>&bullet; o navegador conecta àquele IP e requisita o arquivo necessário</li>
+                                <li>&bullet; o programa do servidor web (e.x. Apache) pega o arquivo do servidor local, e envia o conteúdo para você</li>
+                            </ul>
+                        </li>
+                    </ul>
+
+
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="1200">
+                <div class="row">
+                    <ul>
+                        <li>algumas URLs na verdade especificam <em>programas</em> que o servidor web deve rodar e então enviar a saída de volta para você como resultado:
+                        </li>
+                    </ul>
+
+                    <p>
+                            <h2 class="text-center">
+                            http://intranet.viannajr.edu.br/login_aluno.php
+                            </h2>
+                    </p>
+                    <br>
+                    <ul>
+                        <li>a URL acima diz para o servidor <code>intranet.viannajr.edu.br</code> rodar o programa <code>login_aluno.php</code> e enviar o seu resultado.</li>
+                    </ul>
+                    </li>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="1500">
+                <ul>
+                    <li><h1 class="color2">Programação Web do lado-servidor</h1></li>
+                </ul>
+
+            </div>
+
+
+            <div class="step visit-me" data-y="1700">
+                <ul>
+                    <li class="text-center"><img src="img/php_logo.gif" alt="php" style="margin-right: 2em" />
+                        <img src="img/javaee.gif" alt="jsp" style="margin-right: 2em" />
+                        <img src="img/ruby_on_rails.png" alt="ruby on rails" style="margin-right: 2em" />
+                        <img src="img/asp_net.png" alt="asp.net" />
+                    </li>
+                </ul>
+
+            </div>
+            <div class="step visit-me" data-y="2000">
+
+                <ul class="text-justify">
+                    <li>as páginas dos programas <em>server-side</em> são escritas usando uma das muitas linguagens/frameworks de programação Web: <br/><br/>
+                        <ul>
+                            <li class="text-center">
+                                <a href="http://php.net/">PHP</a>,
+                                <a href="http://java.sun.com/products/jsp/">Java/JSP</a>,
+                                <a href="http://www.rubyonrails.org/">Ruby on Rails</a>,
+                                <a href="http://www.asp.net/">ASP.NET</a>,
+                                <a href="http://www.djangoproject.com/">Python</a>,
+                                <a href="http://www.cgi101.com/learn/">Perl</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><br/><br/>O servidor web contêm o programa que permite rodar estes códigos e enviar a saída como resposta às requisições web.</li>
+
+                    <li><br/><br/>Cada linguagem/framework tem os seus prós e seus contras.
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+        <div class="step nested-steps" data-y="200" data-x="7300">
+
+            <div class="step visit-me" data-y="500">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h1 class="color2">
+                            História do PHP
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="600">
+                <div class="row">
+                    <h2>
+                        O que é PHP?
+                        <div>
+                            <img src="img/php_logo.gif" alt="PHP logo" style="float: right; margin-left: 1em" />
+                        </div>
+                    </h2>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="850">
+                <div class="row">
+                    <ul>
+                        <li><b>PHP</b> é um acrônimo recursivo para &quot;PHP Hypertext Preprocessor&quot;:<br/><br/></li>
+                        <li>&bullet; Linguagem de script open source (server-side) </li>
+                        <li>&ensp; usado para criar páginas web dinâmicas:
+                            <ul>
+                                <li>&blacktriangleright; fornece conteúdo diferente dependendo do contexto</li>
+                                <li>&blacktriangleright; interface com outros serviços: banco de dados, e-mail, etc</li>
+                                <li>&blacktriangleright; autenticação de usuários</li>
+                                <li>&blacktriangleright; processamento de formulários</li>
+                            </ul>
+                        </li>
+                        <li><br/><br/>O código PHP pode ser embutido em um código XHTML</li>
+                    </ul>
+
+
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="1500">
+                <div class="row">
+                    <h1>
+                        Ciclo de vida de uma requisição PHP
+                    </h1>
+
+                    <div style="text-align: center"><img src="img/figure_1_server.png" alt="PHP server" style="width: 55%" /></div>
+
+                    <ul>
+                        <li><br/>&blacktriangleright; browser requisita um arquivo <code>.html</code> (<em>conteúdo estático</em>): servidor simplesmente envia o arquivo</li>
+                        <li><br/>&blacktriangleright; browser requisita um arquivo <code>.php</code>  (<em>conteúdo dinâmico</em>): servidor lê o arquivo, roda o script dentro dele, envia o resultado através da rede.                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="2200">
+                <div class="row">
+                    <h1>Como surgiu?</h1>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>
+                                Criado em 1994 pelo americano <b><a title="rasmus lerforf wiki" href="http://pt.wikipedia.org/wiki/Rasmus_Lerdorf" target="_blank"> Rasmus Lerdorf</a>.</b><br/>
+                            </li>
+                            <li>
+                                Originalmente usado para acompanhamento de visitas para seu currículo online.</li><br/>
+                            <li>
+                                Ele nomeou o conjunto de scripts de "<b>P</b>ersonal <b>H</b>ome <b>P</b>age Tools"  mais frequentemente referenciado como "PHP Tools" esse conjunto foi reformulado e disponibilizado em 1995 como "PHP/FI"<br/>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <img class="" src="img/Rasmus_Lerdorf_August_2014_(cropped).JPG" alt="" width="375" height="281">
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="step visit-me" data-y="2900">
+                <div class="row">
+                    <ul>
+                        <li>
+                        <h2><b>PHP 3</b></h2><br/>
+                        </li>
+                        <li>
+                            PHP 3.0 foi a primeira versão que se assemelha com o PHP como existe hoje. <br/><br/>
+                        </li>
+                        <li>
+                            Um dos maiores pontos fortes do PHP 3.0 foram os fortes recursos de extensibilidade.<br/><br/>
+                        </li>
+                        <li>
+                            Outro recurso chave foi introduzido no PHP 3.0 incluindo o suporte a programação orientada a objeto.<br/><br/>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="step visit-me" data-y="3400">
+                <div class="row">
+                    <ul>
+                        <li>
+                            <h2><b>PHP 4</b></h2><br/>
+                        </li>
+                        <li>
+                            No inverno de 1998, logo após o PHP 3.0 ter sido oficialmente lançado, Andi Gutmans e Zeev Suraski começaram a trabalhar em uma <b>reescrita do core</b> do PHP.<br/><br/>
+                        </li>
+                        <li>
+                            Os objetivos do projeto eram melhorar performance das aplicações complexas, e melhorar a modularização do código base do PHP. <br/><br/>
+                        </li>
+                        <li>
+                            Além da melhoria da performance nesta versão, o PHP 4.0 incluiu outros recursos chaves, tais como <b>suporte para maioria dos servidores web</b>, <b>sessões HTTP</b>, <b>saídas de buffering</b>, mais maneiras <b>seguras</b> para manipular dados de entrada de usuários e diversas novas construções de linguagem.<br/><br/>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="step visit-me" data-y="4700">
+                <div class="row">
+                    <ul>
+                        <li>
+                            <h2 class="color2"><b>PHP 5</b></h2><br/>
+                        </li>
+                        <li>
+                            Com um novo núcleo o PHP 5 foi lançado em Julho de 2004 após um longo desenvolvimento e vários pré-lançamentos.<br/><br/>
+                        </li>
+                        <li>
+                            Sua ultima versão é a PHP 5.6.11 lançada em 10/07/15 e pode ser utilizada até hoje<br/><br/>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="step visit-me" data-y="5500">
+                <div class="row">
+                    <ul>
+                        <li>
+                            <h2><b>PHP 6</b></h2><br/>
+                        </li>
+                        <li>
+                            Em 2005, um projeto foi iniciado para trazer suporte <b>UNICODE</b> ao PHP através da incorporação da biblioteca UCI<br/><br/>
+                        </li>
+                        <li>
+                            Uma vez que isso causaria grandes mudanças tanto no código fonte como para o usuário, foi planejado lançá-la na versão 6.0 em conjunto com outros importantes recursos, então em desenvolvimento, em vez da 5.5<br/><br/>
+                        </li>
+                        <li>
+                            Entretanto, devido a falta de desenvolvedores que entendessem as mudanças necessárias e problemas de desempenho decorrentes da <b>conversão para UTF-16</b>, que raramente é usado em um contexto web o PHP 5.3 foi lançado em 2009, sem total suporte ao Unicode, mas contendo algumas das novidades que seriam lançadas no PHP 6.0. <br/><br/>
+                        </li>
+                        <li>
+                            Durante os anos, antes do lançamento do PHP 5.3 e 5.4, alguns livros foram publicados com base no conjunto de recursos esperado de PHP 6.0
+                        </li>
+
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="step visit-me" data-y="6900">
+                <div class="row">
+                    <ul>
+                        <li>
+                            <h2><b>PHP 7</b></h2><br/>
+                        </li>
+                        <li>
+                            O PHP 7.0.0 foi lançado em 03 de dezembro de 2015 e atualmente está em sua versão 7.4.27(16/12/2021).<br/><br/>
+                        </li>
+                        <li>
+                            A performance do PHP 7 em relação ao 5 aumentou em torno de 10–25%
+                        </li>
+                        <li>
+                            Remoção dos Construtores do PHP 4;
+                        </li>
+                        <li>
+                            Novos operadores <code> <=> </code> e <code> ?? </code>
+                        </li>
+                        <li>
+                            Declaração do Tipo de Retorno
+                        </li>
+                        <li>
+                            ...
+                        </li>
+
+
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="step visit-me" data-y="7600">
+                <div class="row">
+                    <ul>
+                        <li>
+                            <h2><b>PHP 8</b></h2><br/>
+                        </li>
+                        <li>
+                            O PHP 8.0.0 foi lançado em 26 de novembro de 2020 e atualmente está em sua versão 8.1.2(20/01/2022).<br/><br/>
+                        </li>
+                        <li>
+                            A grande novidade é o Compilador JIT (Just in Time) <br><br>
+                            Com o JIT, algumas operações não precisarão ser interpretados pela ZendVM, pois, essas instruções serão executadas diretamente a nível de CPU.
+                        </li>
+                        <li>
+                            O desempenho do PHP 8 é mais de 4 vezes superior ao PHP 7.4<br><br>
+                        </li>
+                        <li>Além disso temos mudanças no método Construtor e algumas outras melhorias que discutiremos ao longo do curso</li>
+                    </ul>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="step nested-steps" data-y="200" data-x="8700">
+
+            <div class="step visit-me" data-y="500">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h1 class="color2">
+                            Porque PHP?
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="step visit-me" data-y="700">
+                <div class="row">
+                    <p>
+                        Existem muitas outras linguagens para web: Ruby on Rails, JSP, ASP.NET, etc.  Por que escolher PHP?
+                    </p>
+
+                    <ul>
+                        <li>&rArr; free e open source: qualquer um pode rodar um servidor PHP sem pagar</li>
+                        <li>&rArr; compativel: suportado pelos servidores web mais populares </li>
+                        <li>&rArr; simples: muitas facilidades já implementadas; sintax familiar</li>
+                        <li>&rArr; mercado: uma das lingagens mais utilizadas nos dias atuais</li>
+                    </ul>
+
+
+                </div>
+            </div>
+
+
+            <div class="step visit-me" data-y="1500">
+                <div class="row">
+
+                    <h1><a href="http://redmonk.com/sogrady/2016/07/20/language-rankings-6-16/">RedMonk</a></h1>
+                    <ol>
+                        <li>JavaScript</li>
+                        <li>Java</li>
+                        <li class="color2">PHP</li>
+                        <li>Python</li>
+                        <li>C#</li>
+                        <li>C++</li>
+                        <li>Ruby</li>
+                        <li>CSS</li>
+                        <li>C</li>
+                        <li>Objective-C</li>
+                    </ol>
+                </div>
+            </div>
+
+            <div class="step visit-me" data-y="2100">
+                <div class="row">
+
+                    <h1>Jobs Tractor</h1>
+                    <ol>
+                        <li>Java</li>
+                        <li>Objective-C</li>
+                        <li class="color2">PHP</li>
+                        <li>SQL</li>
+                        <li>Java (Android)</li>
+                        <li>C#</li>
+                        <li>JavaScript</li>
+                        <li>Python</li>
+                        <li>Ruby</li>
+                        <li>C++</li>
+                    </ol>
+                </div>
+            </div>
+
+
+
+            <div class="step visit-me" data-y="2700">
+                <div class="row">
+
+                    <h1><a href="http://githut.info/">GitHut</a></h1>
+                    <ol>
+                        <li>JavaScript</li>
+                        <li>Java</li>
+                        <li>Python</li>
+                        <li>CSS</li>
+                        <li class="color2">PHP</li>
+                        <li>Ruby</li>
+                        <li>C++</li>
+                        <li>C</li>
+                        <li>Shell</li>
+                        <li>C#</li>
+                    </ol>
+                </div>
+            </div>
+
+
+
+
+        </div>
+
+        <div class="step step-slide" data-y="800" data-x="10100" >
+            <h1>Hello, World!</h1>
+
+            <p>
+                O seguinte código pode ser inserido em um arquivo <code>hello.php</code>:
+            </p>
+
+            <div class="example">
+                <pre class="prettyprint lang-php">
+                <em>&lt;?php</em>
+                print &quot;Hello, world!&quot;;
+                <em>?&gt;</em>
+                </pre>
+
+                <div class="alert-success text-center">
+                    <h1>Hello, world!</h1>
+                </div>
+            </div>
+
+            <ul>
+                <li>Um bloco de código php começa com <code>&lt;?php</code> e termina com <code>?&gt;</code></li>
+            </ul>
+        </div>
+
+        <div class="step step-slide" data-y="800" data-x="11500" >
+            <h1>Visualizando a saída PHP</h1>
+
+            <div style="text-align: center">
+                <img src="img/php_output_local.png" alt="PHP local output" />
+                <img src="img/php_output_server.png" alt="PHP server output" />
+            </div>
+
+            <ul>
+                <li>você não consegue visualizar uma página <code>.php</code> no seu disco local; </li>
+                <li>se você fizer o upload do arquivo em um servidor com PHP habilitado,  o servidor irá processar o arquivo  <code>.php</code> e retornará o resultado</li>
+            </ul>
+        </div>
+
+        <div class="step step-slide" data-y="800" data-x="12900" >
+            <h1 class="text-smaller">Server-Side</h1>
+
+            <ul>
+                <li>
+                    &bullet; Server-Side: O Básico
+                </li>
+                <li>
+                    &bullet; História do PHP
+                </li>
+                <li class="color2">
+                    &bullet; <b>PHP: Sintaxe Básica</b>
+                </li>
+                <li>
+                    &bullet; PHP Embutido
+                </li>
+            </ul>
+        </div>
+
+        <div class="step step-slide" data-y="800" data-x="14300" >
+            <h1>
+                Saída em texto: <code><a href="http://www.php.net/print">print</a></code>
+            </h1>
+
+            <div class="example">
+                <pre class="prettyprint lang-php">
+                print &quot;<var>text</var>&quot;;
+                print (&quot;<var>Al&ocirc; Mundo</var>&quot;);
+                print &quot;Hello, World!&quot;;
+
+
+                print 'Uma string pode usar &quot;aspas simpes&quot;. ';
+                </pre>
+
+            </div>
+
+
+            <ul class="text-right">
+                <li>você pode usar o equivalente <code>echo</code> ao invés de <code>print</code></li> </ul>
+        </div>
+        <div class="step step-slide spoiler fill-bg">
+            <div class="text-center">
+                <img class="graph" src="img/exercicios1.png"/>
+            </div>
+        </div>
+
+        <div class="step step-slide spoiler fill-bg">
+            <div class="text-center">
+                <img class="graph" src="img/exercicios2.png"/>
+            </div>
+        </div>
+
+
+       
+
+
+
+    </div>
+
+    <div id="laser"></div>
+
+    <script type="text/javascript">
+        !function ($) {
+            $(function(){
+
+                $('#impress').jmpress({
+                    "mouse": { clickSelects: false },
+                    "beforeChange": function(element, eventData) {
+                        element = $(element);
+                        if(element.is('tr') || element.hasClass("visit-me")) {
+                            element.addClass('visited'); // code should not be hidden after visiting
+                        }
+                    }
+                });
+
+                window.prettyPrint && prettyPrint()
+                $('body').mousemove(function(e){
+                    $('#laser').css('left', e.clientX).css('top', e.clientY);
+                });
+            });
+        }(window.jQuery)
+    </script>
+</body>
+</html>

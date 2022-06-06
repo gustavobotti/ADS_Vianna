@@ -1,0 +1,136 @@
+.will-two-step > .step-fade {
+	transition-property: opacity;
+	transition-duration: 0.5s;
+	opacity: 1.0;
+}
+.will-two-step > .forward-step > .step-fade {
+	transition-property: opacity;
+	transition-duration: 0.5s;
+	opacity: 1.0;
+}
+.will-two-step > .forward-step > .forward-step > .step-fade {
+	transition-property: opacity;
+	transition-duration: 0.5s;
+	opacity: 1.0;
+}
+.will-two-step > .forward-step > .forward-step > .forward-step > .step-fade {
+	transition-property: opacity;
+	transition-duration: 0.5s;
+	opacity: 1.0;
+}
+.do-two-step > .step-fade {
+	opacity: 0.0;
+}
+.do-two-step > .forward-step > .step-fade {
+	opacity: 0.0;
+}
+.do-two-step > .forward-step > .forward-step > .step-fade {
+	opacity: 0.0;
+}
+.do-two-step > .forward-step > .forward-step > .forward-step > .step-fade {
+	opacity: 0.0;
+}
+.will-two-step > .step-appear {
+	opacity: 0.0;
+	transition-property: opacity;
+	transition-duration: 0.5s;
+}
+.will-two-step > .forward-step > .step-appear {
+	opacity: 0.0;
+	transition-property: opacity;
+	transition-duration: 0.5s;
+}
+.will-two-step > .forward-step > .forward-step > .step-appear {
+	opacity: 0.0;
+	transition-property: opacity;
+	transition-duration: 0.5s;
+}
+.will-two-step > .forward-step > .forward-step > .forward-step > .step-appear {
+	opacity: 0.0;
+	transition-property: opacity;
+	transition-duration: 0.5s;
+}
+.do-two-step > .step-appear {
+	opacity: 1.0;
+}
+.do-two-step > .forward-step > .step-appear {
+	opacity: 1.0;
+}
+.do-two-step > .forward-step > .forward-step > .step-appear {
+	opacity: 1.0;
+}
+.do-two-step > .forward-step > .forward-step > .forward-step > .step-appear {
+	opacity: 1.0;
+}
+.do-two-step > .only-1 {
+	display: none;
+}
+.do-two-step > .forward-step > .only-1 {
+	display: none;
+}
+.do-two-step > .forward-step > .forward-step > .only-1 {
+	display: none;
+}
+.do-two-step > .forward-step > .forward-step > .forward-step > .only-1 {
+	display: none;
+}
+.will-two-step:not(.do-two-step) > .only-2 {
+	display: none;
+}
+.will-two-step:not(.do-two-step) > .forward-step > .only-2 {
+	display: none;
+}
+.will-two-step:not(.do-two-step) > .forward-step > .forward-step > .only-2 {
+	display: none;
+}
+.will-two-step:not(.do-two-step) > .forward-step > .forward-step > .forward-step > .only-2 {
+	display: none;
+}
+.will-two-step:not(.has-two-step) > .only-after {
+	display: none;
+}
+.will-two-step:not(.has-two-step) > .forward-step > .only-after {
+	display: none;
+}
+.will-two-step:not(.has-two-step) > .forward-step > .forward-step > .only-after {
+	display: none;
+}
+.will-two-step:not(.has-two-step) > .forward-step > .forward-step > .forward-step > .only-after {
+	display: none;
+}
+.do-two-step > .visible-1 {
+	visibility: hidden;
+}
+.do-two-step > .forward-step > .visible-1 {
+	visibility: hidden;
+}
+.do-two-step > .forward-step > .forward-step > .visible-1 {
+	visibility: hidden;
+}
+.do-two-step > .forward-step > .forward-step > .forward-step > .visible-1 {
+	visibility: hidden;
+}
+.will-two-step:not(.do-two-step) > .visible-2 {
+	visibility: none;
+}
+.will-two-step:not(.do-two-step) > .forward-step > .visible-2 {
+	visibility: none;
+}
+.will-two-step:not(.do-two-step) > .forward-step > .forward-step > .visible-2 {
+	visibility: none;
+}
+.will-two-step:not(.do-two-step) > .forward-step > .forward-step > .forward-step > .visible-2 {
+	visibility: none;
+}
+.will-two-step:not(.has-two-step) > .visible-after {
+	visibility: none;
+}
+.will-two-step:not(.has-two-step) > .forward-step > .visible-after {
+	visibility: none;
+}
+.will-two-step:not(.has-two-step) > .forward-step > .forward-step > .visible-after {
+	visibility: none;
+}
+.will-two-step:not(.has-two-step) > .forward-step > .forward-step > .forward-step > .visible-after {
+	visibility: none;
+}

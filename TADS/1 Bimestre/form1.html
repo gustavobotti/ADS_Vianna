@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="processa.php" method="POST">
+        Nome: <input type="text" name="nome" id="nome"> <br>
+        Email: <input type="text" name="email" id="email"> <br>
+        Profissão: 
+		<select name="profissao" id="profissao">
+			<option value="engSoft">Engenheiro de Software</option>
+			<option value="analistaSI">Analista de Segurança de Informação</option>
+			<option value="analista">Analista de Sistemas</option>
+			<option value="sysAdmin">Administrador de Sistemas</option>
+			<option value="dbadmin">Administrador do banco de dados</option>
+			<option value="gestor">Gestor de tecnologias da informação</option>
+			<option value="arqRedes">Arquiteto de redes</option>
+			<option value="dev">Desenvolvedor</option>
+		</select> <br>
+        Gênero: <br> <input type="radio" name="genero" id="masculino" value="masculino"> <label for="masculino">Masculino</label><br>
+		<input type="radio" name="genero" id="feminino" value="feminino"> <label for="feminino">Feminino</label><br>
+		<input type="radio" name="genero" id="naoInformado" value="naoInformado"> <label for="naoInformado">Não Informado</label><br>
+		<input type="radio" name="genero" id="outro" value="outro"> <label for="outro">Outro (Qual?)</label><br>
+        Escolha suas áreas de interesse: <input type="checkbox" name="areaInteresse" id="bd"> <label for="bd">Banco de dados</label>
+		<input type="checkbox" name="areaInteresse" id="es"> <label for="es">Engenharia de Software</label> 
+		<input type="checkbox" name="areaInteresse" id="rc"> <label for="rc">Redes de computadores</label>
+		<input type="checkbox" name="areaInteresse" id="dj"> <label for="dj">Desenvolvedor de jogos</label>
+		<input type="checkbox" name="areaInteresse" id="bend"> <label for="bend">Programação Back End</label>
+		<input type="checkbox" name="areaInteresse" id="fend"> <label for="fend">Programação Front End</label>
+		<input type="checkbox" name="areaInteresse" id="md"> <br><label for="md">Mineração de dados</label>
+        Fale Conosco: <input type="text" name="faleConosco" id="faleConosco"> <br>
+		Quer receber promoções? <input type="checkbox" name="promocoes" id="promocoes"> <br>
+        Senha: <input type="text" name="senha" id="senha"> <br>
+        Confirme a senha: <input type="text" name="senha2" id="senha2"> <br>
+        <input type="submit" value="Confirma">
+    </form>
+</body>
+</html>

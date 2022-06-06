@@ -1,0 +1,390 @@
+
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8" />
+
+    <title>Técnicas atuais em desenvolvimento de software</title>
+
+    <link href="css/impress.css" rel="stylesheet"/>
+    <link href="css/prettify.css" rel="stylesheet"/>
+    <link href="css/animation.css" rel="stylesheet"/>
+    <link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css/fonts.css" rel="stylesheet"/>
+    <link href="css/two-step.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/googlecode.css">
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jmpress.impress.js"></script>
+    <script src="js/google-code-prettify/prettify.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+</head>
+<body>
+
+    <div id="impress">
+
+        <div class="step step-title" data-y="-800">
+            <div class="jumbotron text-center">
+              <h1>
+                <span class="alert-warning"> &nbsp; TÉCNICAS ATUAIS EM &nbsp; <br>
+                    &nbsp;DESENVOLVIMENTO DE &nbsp; <br>SOFTWARE&nbsp;</span>
+            </h1>
+                <div class="img1"></div>
+
+                <footer>
+               
+                    <h2>Prof. Ms. Gildo de Almeida Leonel</h2>
+                    <h3><span class="text-info">gleonel@viannajr.edu.br</span></h3>
+               		<img src="img/logo-Copia.png" style="position: relative;">
+              </footer>
+
+            </div>
+        </div>
+
+        <!-- SINTAXE Básica -->
+
+        <div class="step step-slide">
+            <h1 class="text-center text-v-center">Embutindo o código PHP</h1>
+
+
+
+        </div>
+
+        <div class="step step-slide" data-x="2600">
+            <h1><a href="http://www.php.net/variables">Embutindo o código na página</a></h1>
+            
+          <ul>
+                <li>&bull; A maioria dos programas PHP produz HTML como sua saída: <br>
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;páginas dinâmicas; respostas aos envios de formulários HTML; etc.<br>
+            </li>
+                <li><br>&bull; Um programa de PHP embutido é um arquivo que contém uma mistura de HTML e PHP. <br>
+            </ul><br>
+			<div class="text-center">
+                <img class="graph" src="img/embedded_php.png" width="575" height="186"/>
+            </div>
+             
+        </div>
+
+        <div class="step step-slide" data-x="3900" >
+            
+
+             <pre >
+                 <code class="php">
+&lt;?php
+print "&lt;!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\"\n";
+print " \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\n";
+print "&lt;html xmlns=\"http://www.w3.org/1999/xhtml\">\n";
+print "  &lt;head>\n";
+print "    &lt;title>Hello!&lt;/title>\n";
+...
+?>
+                </code>
+             </pre>
+           
+        </div>
+
+
+        <div class="step step-slide" data-x="5200">
+           <ul>
+					<li>Imprimir código HTML com <code>print</code> ou <code>echo</code> torna o código bagunçado e propenso a erros:
+						<ul>
+							<li>&bull;O html deve vir entre aspas e os caracteres especiais devem ser tratados, e.x. <code>\"</code></li>
+							<li>&bull;Quebras de linha no código <code>\n</code> devem ser inseridas a cada nova linha</li>
+						</ul>
+					</li>
+                    <li> Uma melhor forma: </li>
+				</ul>
+<pre ><code class="php">Conteúdo HTML
+
+ &lt;? Php
+ Código PHP
+ ?>
+
+ Conteúdo HTML</code>
+             </pre>
+           
+ 
+        </div>
+
+        <div class="step step-slide" data-x="6500">
+            <pre><code class="php">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+ "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+  &lt;head&gt;&lt;title&gt;Embedded PHP&lt;/title&gt;&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;Eu sei contar até:
+      <em>&lt;?php
+      for ($i = 1; $i &lt;= 10; $i++) {
+        print "$i\n";
+      }
+      ?&gt;</em>
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+                </code>
+            </pre>
+
+        </div>
+
+        <div class="step step-slide" data-x="7800">
+
+            <pre><code class="php">&lt;?= <var>expression</var> ?&gt;</code></pre>
+         <pre><code class="php">&lt;h2&gt; A resposta é <em>&lt;?= 6 * 7 ?&gt;</em>&lt;/h2&gt;</code></pre>
+            <ul>
+                
+               <li><span class="color1">Bloco de expressão</span>: um pequeno pedaço de código PHP que interpreta seu valor embutido no html
+						<ul>
+							<li>
+								<code>&lt;?= <var>expression</var> ?&gt;</code> é equivalente a :
+<pre><code class="php">&lt;?php print <var>expression</var>; ?&gt;</code></pre>
+							</li>					
+						</ul>
+					</li>
+                    <li> Versões anteriores ao PHP5.4 devem ter a diretiva <span class="color2">short_open_tag</span> habilitada.
+            </ul>
+
+
+        </div>
+
+
+        <div class="step step-slide" data-y="800" >
+<pre><code class="php text-small">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+ "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+  &lt;head&gt;&lt;title&gt;Embedded PHP&lt;/title&gt;&lt;/head&gt;  
+  &lt;body&gt;
+    <em>&lt;?php
+    for ($i = 99; $i &gt;= 1; $i--) {
+      ?&gt;</em>
+      &lt;p&gt;<em>&lt;?= $i ?&gt;</em> patinhos foram passear,   &lt;br /&gt;
+         além das montanhas para brincar. &lt;br /&gt;
+         A mamãe gritou: Quá, quá, quá, quá, &lt;br /&gt;
+         Mas só <em>&lt;?= $i - 1 ?&gt;</em>  patinhos voltaram de lá.&lt;/p&gt;
+      <em>&lt;?php
+    }
+    ?&gt;</em>
+  &lt;/body&gt;
+&lt;/html&gt;</code></pre>
+
+        </div>
+
+        <div class="step step-slide"  data-y="800" data-x="1600">
+            <h2 class="text-center color2">
+                    Exercício
+            </h2>
+            <h3>
+          Faça um código PHP embutido em HTML para escrever a letra da música "<a href="https://www.letras.mus.br/galinha-pintadinha/1785852/">Um elefante incomoda</a>":<br></h3>
+                <div class="text-center">
+                	<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/CtJBnNSreBs" frameborder="0" allowfullscreen></iframe> 
+                </div>
+            
+
+           
+      </div>
+        <div class="step step-slide" data-y="800" data-x="2900">
+           <pre> <code class="php">$<var>name</var> = array();                         <span class="comment"># Criando um array</span>
+$<var>name</var> = array(<var>value0</var>, <var>value1</var>, <var>...</var>, <var>valueN</var>);
+
+$<var>name</var>[<var>index</var>]			<span class="comment"># buscando o valor do array</span>
+$<var>name</var>[<var>index</var>] = <var>value</var>;		<span class="comment"># setando o valor de uma posição</span>
+$<var>name</var>[] = <var>value</var>;			<span class="comment"># anexa</span></code></pre> 
+
+        </div>
+        <div class="step step-slide" data-y="800" data-x="5500">
+<pre><code class="php">$a = array();     <span class="comment"># Array vazio (length 0)</span>
+$a[0] = 23;       <span class="comment"># Armazena o inteiro 23 na posição 0 (length 1)</span>
+$a2 = array("algumas", "strings", "em", "um", "array");
+$a2[] = "Ooh!";   <span class="comment"># adiciona a string no final (na posição 5)</span></pre></code>
+				<p>
+                    <ul>
+                        <li><br><br>&bull;para anexar, use chaves sem especificar uma posição</li>
+                        <li><br>&bull;o tipo de array não é espeficicado; tipos podem ser misturados</li>
+                    </ul>
+                  </p>
+        </div>
+        <div class="step step-slide" data-y="800" data-x="6800">
+<h2>Um array pode ser criado com o construtor de linguagem <code>array()</code>. Ele pega um certo número de pares separados por vírgula <code>chave => valor </code>. </h2>
+<pre><code class="php">array(  chave =>  valor
+     , ...
+     )
+// chave pode ser tanto string ou um integer
+// valor pode ser qualquer coisa </code></pre>
+<pre><code class="php">&lt;?php
+$arr = array("foo" => "bar", 12 => true);
+
+echo $arr["foo"]; // bar
+echo $arr[12];    // 1
+?></code></pre>
+        </div>
+        <div class="step step-slide" data-y="800" data-x="8100">
+           <table class="doctable table">
+					<tbody><tr class=" evenrow">
+						<th>
+							Função
+						</th>
+						<th>
+							Descrição
+						</th>
+					</tr>
+					
+					<tr>
+						<td>
+							<a href="http://www.php.net/count"><code>count</code></a>
+						</td>
+						<td>
+							Número de elementos em um array
+						</td>
+					</tr>
+					
+					<tr class=" evenrow">
+						<td>
+							<a href="http://us.php.net/print_r"><code>print_r</code></a>
+						</td>
+						<td>
+							Imprime o conteudo de um array
+						</td>
+					</tr>
+					
+
+					<tr>
+						<td>
+							<a href="http://www.php.net/array-pop"><code>array_pop</code></a>,
+							<a href="http://www.php.net/array-push"><code>array_push</code></a>, <br>
+							<a href="http://www.php.net/array-shift"><code>array_shift</code></a>,
+							<a href="http://www.php.net/array-unshift"><code>array_unshift</code></a>
+						</td>
+						<td>
+							Usando o array como uma fila/pilha
+						</td>
+					</tr>
+
+					<tr class=" evenrow">
+						<td>
+							<a href="http://www.php.net/in-array"><code>in_array</code></a>,
+							<a href="http://www.php.net/array-search"><code>array_search</code></a>,
+							<a href="http://www.php.net/array-reverse"><code>array_reverse</code></a>, <br>
+							<a href="http://www.php.net/sort"><code>sort</code></a>,
+							<a href="http://www.php.net/rsort"><code>rsort</code></a>,
+							<a href="http://www.php.net/shuffle"><code>shuffle</code></a>
+						</td>
+						<td>
+							Busca e ordenação
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<a href="http://www.php.net/array-fill"><code>array_fill</code></a>,
+							<a href="http://www.php.net/array-merge"><code>array_merge</code></a>,
+							<a href="http://www.php.net/array-intersect"><code>array_intersect</code></a>, <br>
+							<a href="http://www.php.net/array-diff"><code>array_diff</code></a>,
+							<a href="http://www.php.net/array-slice"><code>array_slice</code></a>,
+							<a href="http://www.php.net/range"><code>range</code></a>
+						</td>
+						<td>
+							Criação, preenchimento e filtragem.
+						</td>
+					</tr>
+					
+					<tr class=" evenrow">
+						<td>
+							<a href="http://www.php.net/array-sum"><code>array_sum</code></a>,
+							<a href="http://www.php.net/array-product"><code>array_product</code></a>,
+							<a href="http://www.php.net/array-unique"><code>array_unique</code></a>, <br>
+							<a href="http://www.php.net/array-unique"><code>array_filter</code></a>,
+							<a href="http://www.php.net/array-reduce"><code>array_reduce</code></a>
+						</td>
+						<td>
+							Processamento
+						</td>
+					</tr>
+				</tbody></table>
+
+        </div>
+
+        <div class="step step-slide" data-y="800" data-x="9400">
+<pre><code class="php">$tas = array("MD", "BH", "KK", "HM", "JP");
+for ($i = 0; $i &lt; <em>count</em>($tas); $i++) {
+  $tas[$i] = strtolower($tas[$i]);
+}                                 <span class="comment"># ("md", "bh", "kk", "hm", "jp")</span>
+$morgan = <em>array_shift</em>($tas);      <span class="comment"># ("bh", "kk", "hm", "jp")</span>
+<em>array_pop</em>($tas);                  <span class="comment"># ("bh", "kk", "hm")</span>
+<em>array_push</em>($tas, "ms");           <span class="comment"># ("bh", "kk", "hm", "ms")</span>
+<em>array_reverse</em>($tas);              <span class="comment"># ("ms", "hm", "kk", "bh")</span>
+<em>sort</em>($tas);                       <span class="comment"># ("bh", "hm", "kk", "ms")</span>
+$best = <em>array_slice</em>($tas, 1, 2);  <span class="comment"># ("hm", "kk")</span>
+</code></pre>
+        </div>
+
+
+        <div class="step step-slide" data-y="1600">
+          <h2>foreach loop </h2>
+          <pre><code class="php">foreach ($<var>array</var> as $<var>variableName</var>) {
+  <var>...</var>
+}</code></pre>
+<pre><code class="php">$alunos = array("Lais", "Mario", "Carla", "Sheila");
+<span class="deleted">for ($i = 0; $i &lt; count($alunos); $i++) {
+  print "Estava presente {$stooges[$i]}\n";
+}</span>
+<em>foreach ($alunos as $aluno) {</em>
+  print "Estava presente $aluno\n";  
+<em>}</em></code>
+</pre>
+
+        </div>
+
+
+      <div class="step step-slide" data-y="1600" data-x="1600">
+      <h2 class="text-center color2">
+                    Exercício
+          </h2><span class="text-justify">  <p>    
+ Desenvolva um script que recebe um array de informações (pré-definido)
+como parâmetro e mostre na tela, em forma de tabela, as informações do
+array.</p>
+          <p><br>
+ O array vai ser uma matriz onde cada linha possui os campos, Nome
+(String) , e-mail (String), Senha (String), Sexo (char), ReceberEmail(boolean).  </p>
+            <p><br>
+              $dados = array(<br>
+              array(0,"João","joao@i.br","123456",'m',1),
+              array(1,"Maria","maria@i.br","654321",'f',1),
+              array(2,"Gabriela","gabilimnda@i.br","password",'f',1),
+              array(3,"Kurt","cobain@i.br","teenspirit",'m',0),
+              array(4,"James","hetfield@i.br","seekanddestroy",'m',0)); </p>
+            </span>
+        </div>
+
+
+        
+
+    </div>
+
+    <div id="laser"></div>
+
+    <script type="text/javascript">
+        !function ($) {
+            $(function(){
+
+                $('#impress').jmpress({
+                    "mouse": { clickSelects: false },
+                    "beforeChange": function(element, eventData) {
+                        element = $(element);
+                        if(element.is('tr') || element.hasClass("visit-me")) {
+                            element.addClass('visited'); // code should not be hidden after visiting
+                        }
+                    }
+                });
+
+                window.prettyPrint && prettyPrint()
+                $('body').mousemove(function(e){
+                    $('#laser').css('left', e.clientX).css('top', e.clientY);
+                });
+            });
+        }(window.jQuery)
+    </script>
+</body>
+</html>
