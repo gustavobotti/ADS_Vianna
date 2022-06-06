@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/MatadorWeb">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="teste" password="aluno" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/mysql?zeroDateTimeBehavior=CONVERT_TO_NULL" username="root"/>
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="matadorPU" password="aluno" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/mysql?zeroDateTimeBehavior=CONVERT_TO_NULL" username="root"/>
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="teste2" password="aluno" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/teste?zeroDateTimeBehavior=CONVERT_TO_NULL" username="root"/>
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="matadorpu" password="aluno" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/matadorpu?zeroDateTimeBehavior=CONVERT_TO_NULL" username="root"/>
+</Context>

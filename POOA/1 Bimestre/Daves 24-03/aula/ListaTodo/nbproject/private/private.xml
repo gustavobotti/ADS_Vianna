@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Daves/aula/ListaTodo/web/index.html</file>
+            <file>file:/D:/Daves/aula/ListaTodo/src/java/br/vianna/model/Pessoa.java</file>
+            <file>file:/D:/Daves/aula/ListaTodo/src/java/br/vianna/servlet/ForwardServlet.java</file>
+            <file>file:/D:/Daves/aula/ListaTodo/src/java/br/vianna/servlet/LoginServlet.java</file>
+            <file>file:/D:/Daves/aula/ListaTodo/web/resultado.jsp</file>
+            <file>file:/D:/Daves/aula/ListaTodo/web/logado.jsp</file>
+            <file>file:/D:/Daves/aula/ListaTodo/src/java/br/vianna/servlet/PessoasServlet.java</file>
+            <file>file:/D:/Daves/aula/ListaTodo/web/listaPessoas.jsp</file>
+        </group>
+    </open-files>
+</project-private>

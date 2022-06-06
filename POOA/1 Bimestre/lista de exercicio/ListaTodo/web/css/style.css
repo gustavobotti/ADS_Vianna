@@ -1,0 +1,311 @@
+:root{
+    --corFonte: #fff;    
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--corFonte)
+}
+
+/*.container{
+    position: relative;
+    width: 1440px;
+    height: 3391px;
+    background: #FFFFFF;
+    grid-template-rows: 500px 1591px 1028px 224px 50px;
+    grid-template-areas: 
+        "header"
+        "exercicio"
+        "aboutUs",
+        "rodapCtt",
+        "rodap";
+}*/
+
+.container header{
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+    background: #F78B00;
+}
+
+.exercicio_thumb{
+    position: absolute;
+    width: 1000px;
+    height: 431px;
+    left: 220px;
+    top: 156px;
+    background: #00285F;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+}
+
+.container main .exercicio_ativo{
+    position: absolute;
+    width: 1000px;
+    height: 93px;
+    left: 231px;
+    top: 645px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.container footer .aboutUs_footer #aboutUs_subtitle{
+    position: absolute;
+    width: 125px;
+    height: 21px;
+    left: 239px;
+    top: 130px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.container footer .aboutUs_footer #aboutUs_title{
+    position: absolute;
+    width: 96px;
+    height: 42px;
+    left: 239px;
+    top:150px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.container footer .aboutUs_footer{
+    position: absolute;
+    width: 1440px;
+    height: 1028px;
+    left: 0px;
+    top: 2091px;
+    background: #EDEDED;
+}
+
+.container footer .aboutUs_footer .aboutUs_card #card_img{
+    position: absolute;
+    width: 270px;
+    height: 423px;
+    top: 20px;
+    left:20px;
+    padding: 20px;
+    background-color: darkgrey;
+}
+
+.container footer .aboutUs_footer .aboutUs_card{
+    position: absolute;
+    width: 1000px;
+    height: 466px;
+    left: 235px;
+    margin-top: 200px;
+    background: rgba(196, 196, 196, 0.16);
+    border-radius: 10px;
+}
+
+.container footer .aboutUs_footer .aboutUs_card #aboutUs_card_title{    
+    position: absolute;
+    width: 234px;
+    height: 21px;
+    margin-top: 75px;
+    margin-right: 35px;
+    left: 730px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.container footer .aboutUs_footer .aboutUs_card #aboutUs_card_text{    
+    position: absolute;
+    width: 626px;
+    height: 519px;
+    margin-top: 85px;
+    padding: 35px;
+    left: 365px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: right;
+    color: #938F8F;
+}
+
+.container footer .contato_footer{
+    position: absolute;
+    width: 1440px;
+    height: 224px;
+    left: 0px;
+    top: 3117px;
+    background: #F78B00;
+}
+
+.footer_aluno{    
+    position:absolute;
+    width: 48px;
+    height: 21px;
+    left: 220px;
+    top: 45px;
+}
+
+.footer_tarefa{    
+    position:absolute;
+    width: 52px;
+    height: 21px;
+    left: 515px;
+    top: 45px;
+}
+
+.footer_social{    
+    position:absolute;
+    width: 100px;
+    height: 21px;
+    left: 795px;
+    top: 45px;
+}
+
+.footer_contato{    
+    position:absolute;
+    width: 178px;
+    height: 21px;
+    left: 1150px;
+    top: 45px;
+}
+
+.contato_footer .footer_header{    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    width: 150px;
+}
+
+.contato_footer p{
+    padding: 8px;
+}
+
+.container footer .trademark_footer{
+    grid-area: rodapCtt;
+    position: absolute;
+    width: 1440px;
+    height: 50px;
+    left: 0px;
+    top: 3341px;
+    background: #00285F;
+}
+
+input, button{
+  color: #000;  
+}
+
+.title{
+    position: absolute;
+    width: 96px;
+    height: 42px;
+    left: 225px;
+    top: 42px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    color: #00285F;
+}
+
+#menu{    
+    position: absolute;
+    left: 600px;
+    top: 38px;    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #00285F;      
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#menu ul li {
+    display: inline;
+    margin: 15px;    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #00285F;   
+}
+
+#thumb_header{
+    position: absolute;
+    left: 8.8%;
+    right: 54.4%;
+    top: 49.88%;
+    bottom: 40.37%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+
+#thumb_subtext{
+    position: absolute;
+    left: 8.8%;
+    right: 55.2%;
+    top: 63.57%;
+    bottom: 18.56%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+#thumb_img{
+    position: absolute;
+    left: 44.8%;
+    right: 0%;
+    top: 17.17%;
+    bottom: 0%;
+}
+
+.trademark_footer{
+    position: absolute;
+    width: 1440px;
+    height: 50px;
+    background: #00285F;
+}
+
+.trademark_footer #pooa{
+    width: 82px;
+    height: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 18px;
+}

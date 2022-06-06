@@ -1,0 +1,231 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--corFundoTotal);
+}
+
+.container {
+    display: grid;
+    background-color: #000;
+    max-width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    grid-template-rows: 500px 1fr 250px;
+    grid-template-areas: 
+        "header"
+        "lista"
+        "rodap";
+}
+
+.container header{
+    background-color: #F78B00;
+    padding: 20px;
+}
+
+.container .header .navegacao{
+    display: grid;
+    justify-items: stretch;
+    align-items: end;
+    margin: 0 auto;
+    width: var(--larguraPagina);
+    color: black;
+    grid-template-rows: 1fr;
+    grid-template-columns: 200px ifr;
+    grid-template-areas: 
+        "pooa navegacao"
+}
+
+.navegacao .pooa{
+  font-size: 30px;
+  font-weight: 600;
+  padding-left: 10px
+}
+
+.navegacao .navlista{
+    font-size: 25px;
+    text-align: center;
+    padding-left: 10px
+}
+
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding-left: 20px;
+}
+
+.container main {
+    grid-area: lista;
+    background-color: #FFFFFF;
+}
+
+.container .main .conteudoExercicio {
+    display: grid;
+    position: relative;
+    justify-items: end;
+    align-items: end;
+    top: -350px;
+    margin: 0 auto;
+    background-color: #00285F;
+    height: 500px;
+    width: var(--larguraPagina);
+    color: white;
+    border-radius: 8px;
+    grid-template-rows:1fr 1fr;
+    grid-template-columns: 400px 1fr;
+    grid-template-areas: 
+        "titulo imagem"
+        "descricao imagem";
+}
+
+.conteudoExercicio div:nth-child(2) {
+    justify-self: end;
+    align-self: start;
+}
+
+.conteudoExercicio .titulo {
+    grid-area: titulo;
+    font-size: 36px;
+    font-style: inherit;
+    font-weight: 600;
+}
+
+.conteudoExercicio .descricao{
+    grid-area: descricao;
+    font-size: 23px;
+    padding-top: 25px;
+    padding-left: 100px;
+}
+
+.conteudoExercicio .imgExercicio {
+    grid-area: imagem;
+}
+
+.container .main .resultado{
+    position: relative;
+    top: -250px;
+    height: 1500px;
+    width: 100%;
+}
+
+.resultado .cardInformativo{  
+    margin: 0% auto;
+    display: grid;
+    text-align: left;
+    background: #EDEDED;  
+    width: 300px         
+}
+
+.cardInformativo div{
+    padding: 10px;
+}
+
+.okResultado{
+    background: #00285F;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.container .main .sobre{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background: #EDEDED;
+    height: 1000px;
+    width: 100%;
+}
+
+.sobre .sobreInterno{
+    margin: 0 auto;
+    height: 600px;
+    width: var(--larguraPagina);
+    padding: 10px;
+    grid-template-rows:200px 1fr;
+    grid-template-areas: 
+        "sobreTitulo"
+        "sobreFinal";
+}
+
+.sobreInterno .sobreTitulo{
+    grid-area: sobreTitulo;
+    font-size: 26px;
+}
+
+.sobreBold{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.sobreInterno .sobreFinal{
+    grid-area: sobreFinal;
+    display: grid;
+    background-color: #E6E6E6;
+    border-radius: 10px;
+    padding: 20px;
+    grid-template-rows:1fr;
+    grid-template-columns:300px 1fr;
+    grid-template-areas: 
+        "imgsobre textodosobre";
+}
+
+.sobreFinal .imgSobreFinal{
+    grid-area: imgsobre;
+}
+
+.sobreFinal .textSobre{
+    grid-area: textodosobre;
+    text-align: right;
+}
+
+.joinSobre{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.textInfo{
+    font-size: 20px;
+    color: #8C8C8D;
+}
+
+.container footer {
+    background-color: #F78B00;
+    color: white;
+}
+
+.container .footer .info {
+    display: grid;
+    text-align: center;
+    margin: 0 auto;
+    width: var(--larguraPagina);
+    color: white;
+    padding: 20px;
+    grid-template-rows: 1fr;
+/*    grid-template-columns: 250px 250px 250px 250px;*/
+    grid-template-areas: 
+        "aluno tarefa stayconnected contato"
+}
+
+p {
+    padding: 10px;
+}
+
+.info .aluno .tarefa .stayconnected  .contato{
+    
+}
+
+.info .bold{
+    font-style: inherit;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.footer .autoria{
+    background: #00285F;
+    text-align: center;
+    height: 20%;
+}

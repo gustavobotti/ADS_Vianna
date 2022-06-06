@@ -1,0 +1,2 @@
+netbeans -> tools -> plugins -> html, java web
+server -> apache

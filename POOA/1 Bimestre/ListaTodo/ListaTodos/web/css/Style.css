@@ -1,0 +1,76 @@
+:root{
+    --cor-fundo: #c0c0c0;
+    --corFonte: #fff
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--corFonte);
+}
+
+body{
+    background-color: var(--cor-fundo);
+}
+
+.container{
+    display: grid;
+    background-color: #000;
+    max-width: 400px;
+    height: 100vh;
+    margin: 0 auto;
+    grid-template-rows: 80px 1fr 70px;
+    grid-template-areas: 
+        "header"
+        "lista"
+        "rodap";
+}
+/*
+@media (max-width: 400px){
+    .container{
+        grid-template-areas: 
+        "header header header"
+            "lista  lista  lista."
+            "rodap rodap rodap";
+    }
+        .container footer{
+            display: none;
+    }
+}*/
+
+.container header{
+    grid-area: header;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+}
+.container main{
+    grid-area: lista;
+    background-color: red;
+}
+.container footer{
+    grid-area: rodap;
+    background-color: green;
+}
+
+input,button{
+    color: #000;
+}
+
+.title{
+    flex-grow: 1;
+/*    background-color: #045;*/
+    font-size: 18px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.container header div{
+    padding: 7px;
+}
+
+
+/*.container div{
+    grid-area: abc;
+    background-color: aqua;
+}*/

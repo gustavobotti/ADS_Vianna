@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        
+        <div class="container">
+            <header>
+               
+                <div>                
+                    <img src="img/logo.svg" />                                            
+                </div>
+                
+                <div class="title">niverSite</div>
+                
+                <div>
+                
+                    <i class="fa-solid fa-circle-question"></i>
+                    
+                </div>
+                
+            </header> 
+            
+            <main>      
+            
+                <form action="pagina" method="GET">
+                    Nome: <input type="text" name="cpNome" /> <br />
+                    Peso: <input type="text" name="cpPeso" /> <br />
+                    Altura: <input type="text" name="cpAltura" /> <br />
+                    <br />
+                    <button type="submit" >Calcular</button>
+                </form>
+                <hr>
+            
+                <form action="calcula" method="GET">
+                    Nome: <input type="text" name="cpNome" /> <br />
+                    Nota 1: <input type="number" min="0" max="10" name="cpNota1" /> <br />
+                    Nota 2: <input type="number" min="0" max="10" name="cpNota2" /> <br />
+                    <br />
+                    <button type="submit" >Calcular</button>
+                </form>
+                
+                <form action="resultado" method="GET">
+                    Nome: <input type="text" name="cpNome" /> <br />
+                    Peso: <input type="text" name="cpPeso" /> <br />
+                    Altura: <input type="text" name="cpAltura" /> <br />
+                    <br />
+                    <button type="submit" >Calcular</button>
+                </form>
+                <hr>
+                
+                
+                <form action="forward" method="GET">
+                    Nome: <input type="text" name="cpNome" /> <br />
+                    Peso: <input type="text" name="cpPeso" /> <br />
+                    Altura: <input type="text" name="cpAltura" /> <br />
+                    <br />
+                    <button type="submit" >Calcular</button>
+                </form>
+                <hr>
+                
+                
+                <form action="login" method="POST">
+                    Login: <input type="text" name="cpLogin" /> <br />
+                    Senha: <input type="password" name="cpSenha" /> <br />
+                    <br />
+                    <button type="submit" >Logar</button>
+                </form>
+                <hr>
+                
+                <a href="pageAjax">Ir para Página Ajax</a>
+                
+            </main>
+            
+            <footer>
+                zzzzz
+            </footer>
+                        
+        </div>
+              
+    </body>
+</html>

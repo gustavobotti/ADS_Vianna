@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CabelinWeb</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>       
+        
+        <div class="container">
+            
+            <header class="header">
+                <div class ="nav">
+                    <div class="title">
+                        <div class="logo" style="float: left;">
+                            <img class="logoBO" src="./img/BO.png" alt="logoBO" style="max-width: 100%">
+                            <img class="logoBeard" src="./img/BOBEARD.png" alt="logoBeard" style="max-width: 100%">
+                        </div>
+                        Barbearia BO
+                    </div>
+                    <div class="menu">
+                        <button class="btnAdm btnNav">Agenda</button>
+                        <button class="btnAdm btnNav" style="background-color: #F06123">Criar</button>
+                        <button class="btnAdm btnNav">Relatorio</button>
+                        <button class="btnAdm btnNot">i</button>
+                        <button class="btnAdm btnLogout">LOGOUT</button>
+                    </div>                    
+                </div>
+            </header>         
+            
+        <main style="border-top: 6px solid #F06123; background-color: white">  
+            <hr class="hr">
+            <form action="#" method="post">
+            <div class="pageTitle">Agendamento de Serviço</div>
+            <div class="tipoServico">                
+                
+                <label class="servico">
+                    <input class="servicoRadio" type="radio" name="servico" checked>
+                    <img class='servico_img' src="./img/corte.png" alt="Corte">                 
+                    <span>Corte</span>
+                </label>
+                
+                <label class="servico">
+                    <input class="servicoRadio" type="radio" name="servico">
+                    <img class='servico_img' src="./img/barba.png" alt="Barba" style="margin-top: 55px;">                 
+                    <span>Barba</span>
+                </label>
+                
+                <label class="servico">
+                    <input class="servicoRadio" type="radio" name="servico">
+                    <img class='servico_img' src="./img/corteBarba.png" alt="corteBarba" style="margin-top: 50px;">                 
+                    <span>Corte e Barba</span>
+                </label>
+                
+                <label class="servico">
+                    <input class="servicoRadio" type="radio" name="servico">
+                    <img class='servico_img' src="./img/desenho.png" alt="Desenho">                 
+                    <span>Desenho</span>
+                </label>
+                
+                <label class="servico">
+                    <input class="servicoRadio" type="radio" name="servico">
+                    <img class='servico_img' src="./img/luzes.png" alt="Luzes" style="margin-top: 40px;">                 
+                    <span>Luzes</span>
+                </label>
+                
+                <label class="servico">
+                    <input class="servicoRadio" type="radio" name="servico">
+                    <img class='servico_img' src="./img/alisamento.png" alt="Alisamento" style="margin-top: 40px;">                 
+                    <span>Alisamento</span>
+                </label>
+                
+                <label class="servico">
+                    <input class="servicoRadio" type="radio" name="servico">
+                    <img class='servico_img' src="./img/pintura.png" alt="Pintura" style="margin-top: 40px;">                 
+                    <span>Pintura</span>
+                </label>
+                
+            </div>
+            
+            <hr class="hr">
+            
+            <div class="formServico">                
+                    <div class="servico_form_group">
+                        <label for="cliente">Cliente</label>
+                        <input type="text" name="cliente" id="cliente" class="servico_form_control" value="">
+                    </div>
+                    <div class="servico_form_group">
+                        <label for="data">Data Agendamento</label>
+                        <input type="date" name="data" id="data" class="servico_form_control" value="">
+                    </div>
+                    <div class="servico_form_group">
+                        <label for="equipe">Equipe</label>
+                        <select name="equipe" id="equipe" class="servico_form_control" >                        
+                            <option>Testando 123</option>
+                            <option>Testando 321</option>
+                            <option>Testando 213</option>
+                        </select>
+                    </div>
+            </div>
+            
+            <div class="dadosServico">                
+                    <div class="servico_form_group">
+                        <label for="desc">Descrição</label>
+                        <textarea name="desc" id="desc" class="servico_form_control" cols="30" rows="7"></textarea>
+                    </div>
+                    <div class="servico_form_group">
+                        <label for="concluido">Concluído</label>
+                        <input type="checkbox" name="concluido" id="concluido" class="servico_form_control" value="">
+                    </div>
+            </div>
+            
+            <button class="btn btn-salvar">Salvar</button>
+            </form>
+        </main>
+            
+        </div>
+    </body>
+    <footer>        
+    </footer>
+</html>
