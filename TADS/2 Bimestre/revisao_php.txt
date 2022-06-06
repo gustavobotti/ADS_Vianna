@@ -1,0 +1,70 @@
+descomentar php.ini pdomysql linha 937
+
+php artisan serve
+
+//php artisan make:model --help
+
+php artisan make:model Paciente -mcr
+
+arquivo em database->migrations
+public function up()
+    {
+        Schema::create('pacientes', function (Blueprint $table) {
+            $table->id();
+            $table->timestamps();
+            $table->string('nome');
+            $table->string('endereco');
+            $table->integer('cpf');
+            $table->char('sexo');
+            $table->string('escolaridade');
+            $table->string('email');
+            $table->string('nascimento');
+            $table->string('telefone');
+            $table->unsignedBigInteger('user_id');
+            $table->foreign('user_id')->references('id')->on('users');
+        });
+    }
+
+php artisan migrate:rollback
+php artisan migrate --seed
+
+em routes->web.php
+
+Route::resource('pacientes',PacienteController::class); //adicionar fora do código Route::prefix
+
+(create.blade.php) ! altenter. fazer form html 
+
+
+PacienteController metodo create()
+-> return view('pacientes.create');
+
+php artisan route:list
+
+em Models -> Paciente
+
+protected $fillable = [
+        'nome',
+        'endereco',
+        'cpf',
+        'sexo',
+        'escolaridade',
+        'email',
+        'nascimento',
+        'telefone',
+        'user_id'
+    ];
+
+PacienteController metodo store()
+
+Paciente::create($request->all);
+
+        return redirect()->route('pacientes.index');
+
+
+
+no metodo index()
+$pacientes = Paciente::all();
+        return view('pacientes.index', compact($pacientes));
+
+
+nova blade index.blade.php
