@@ -1,0 +1,12 @@
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\bin\Release\net5.0\MeuFramework.Entidades.deps.json
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\bin\Release\net5.0\MeuFramework.Entidades.dll
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\bin\Release\net5.0\ref\MeuFramework.Entidades.dll
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\bin\Release\net5.0\MeuFramework.Entidades.pdb
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\obj\Release\net5.0\MeuFramework.Entidades.csproj.AssemblyReference.cache
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\obj\Release\net5.0\MeuFramework.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\obj\Release\net5.0\MeuFramework.Entidades.AssemblyInfoInputs.cache
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\obj\Release\net5.0\MeuFramework.Entidades.AssemblyInfo.cs
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\obj\Release\net5.0\MeuFramework.Entidades.csproj.CoreCompileInputs.cache
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\obj\Release\net5.0\MeuFramework.Entidades.dll
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\obj\Release\net5.0\ref\MeuFramework.Entidades.dll
+D:\Camillo\PWA\MeuFramework\MeuFramework.Entidades\obj\Release\net5.0\MeuFramework.Entidades.pdb

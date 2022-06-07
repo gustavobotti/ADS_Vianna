@@ -1,0 +1,16 @@
+D:\Camillo\PWA\TestesOO\TestesOO\bin\Debug\net5.0\TestesOO.exe
+D:\Camillo\PWA\TestesOO\TestesOO\bin\Debug\net5.0\TestesOO.deps.json
+D:\Camillo\PWA\TestesOO\TestesOO\bin\Debug\net5.0\TestesOO.runtimeconfig.json
+D:\Camillo\PWA\TestesOO\TestesOO\bin\Debug\net5.0\TestesOO.runtimeconfig.dev.json
+D:\Camillo\PWA\TestesOO\TestesOO\bin\Debug\net5.0\TestesOO.dll
+D:\Camillo\PWA\TestesOO\TestesOO\bin\Debug\net5.0\ref\TestesOO.dll
+D:\Camillo\PWA\TestesOO\TestesOO\bin\Debug\net5.0\TestesOO.pdb
+D:\Camillo\PWA\TestesOO\TestesOO\obj\Debug\net5.0\TestesOO.csproj.AssemblyReference.cache
+D:\Camillo\PWA\TestesOO\TestesOO\obj\Debug\net5.0\TestesOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camillo\PWA\TestesOO\TestesOO\obj\Debug\net5.0\TestesOO.AssemblyInfoInputs.cache
+D:\Camillo\PWA\TestesOO\TestesOO\obj\Debug\net5.0\TestesOO.AssemblyInfo.cs
+D:\Camillo\PWA\TestesOO\TestesOO\obj\Debug\net5.0\TestesOO.csproj.CoreCompileInputs.cache
+D:\Camillo\PWA\TestesOO\TestesOO\obj\Debug\net5.0\TestesOO.dll
+D:\Camillo\PWA\TestesOO\TestesOO\obj\Debug\net5.0\ref\TestesOO.dll
+D:\Camillo\PWA\TestesOO\TestesOO\obj\Debug\net5.0\TestesOO.pdb
+D:\Camillo\PWA\TestesOO\TestesOO\obj\Debug\net5.0\TestesOO.genruntimeconfig.cache

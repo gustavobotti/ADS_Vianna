@@ -1,0 +1,16 @@
+D:\Camillo\PWA\Testes\Testes\bin\Debug\net5.0\Testes.exe
+D:\Camillo\PWA\Testes\Testes\bin\Debug\net5.0\Testes.deps.json
+D:\Camillo\PWA\Testes\Testes\bin\Debug\net5.0\Testes.runtimeconfig.json
+D:\Camillo\PWA\Testes\Testes\bin\Debug\net5.0\Testes.runtimeconfig.dev.json
+D:\Camillo\PWA\Testes\Testes\bin\Debug\net5.0\Testes.dll
+D:\Camillo\PWA\Testes\Testes\bin\Debug\net5.0\ref\Testes.dll
+D:\Camillo\PWA\Testes\Testes\bin\Debug\net5.0\Testes.pdb
+D:\Camillo\PWA\Testes\Testes\obj\Debug\net5.0\Testes.csproj.AssemblyReference.cache
+D:\Camillo\PWA\Testes\Testes\obj\Debug\net5.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camillo\PWA\Testes\Testes\obj\Debug\net5.0\Testes.AssemblyInfoInputs.cache
+D:\Camillo\PWA\Testes\Testes\obj\Debug\net5.0\Testes.AssemblyInfo.cs
+D:\Camillo\PWA\Testes\Testes\obj\Debug\net5.0\Testes.csproj.CoreCompileInputs.cache
+D:\Camillo\PWA\Testes\Testes\obj\Debug\net5.0\Testes.dll
+D:\Camillo\PWA\Testes\Testes\obj\Debug\net5.0\ref\Testes.dll
+D:\Camillo\PWA\Testes\Testes\obj\Debug\net5.0\Testes.pdb
+D:\Camillo\PWA\Testes\Testes\obj\Debug\net5.0\Testes.genruntimeconfig.cache

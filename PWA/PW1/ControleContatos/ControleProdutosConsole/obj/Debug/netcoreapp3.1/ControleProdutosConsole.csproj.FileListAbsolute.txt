@@ -1,0 +1,132 @@
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.exe
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.deps.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.runtimeconfig.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.runtimeconfig.dev.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.csproj.AssemblyReference.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.AssemblyInfoInputs.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.AssemblyInfo.cs
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.csproj.CoreCompileInputs.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.csproj.CopyComplete
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.genruntimeconfig.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.exe
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.deps.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.runtimeconfig.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.runtimeconfig.dev.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutosConsole.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.csproj.AssemblyReference.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.AssemblyInfoInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.AssemblyInfo.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.csproj.CopyComplete
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutosConsole\obj\Debug\netcoreapp3.1\ControleProdutosConsole.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/F+ZA23pBxp/jZ38Gf3/dElSBzXJVS7R1/Ecivnd3nwE7gRtg+d8vgnWD228IDig4KThcZazASDv8YR7QdF6AA==",
+  "success": true,
+  "projectFilePath": "D:\\Camillo\\PWA\\MeuFramework\\MeuFramework.Console.Testes\\MeuFramework.Console.Testes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

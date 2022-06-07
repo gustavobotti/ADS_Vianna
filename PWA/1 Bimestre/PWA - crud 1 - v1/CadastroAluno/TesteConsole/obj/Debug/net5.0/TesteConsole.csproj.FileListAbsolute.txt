@@ -1,0 +1,16 @@
+D:\Camillo\PW\CadastroAluno\TesteConsole\bin\Debug\net5.0\TesteConsole.exe
+D:\Camillo\PW\CadastroAluno\TesteConsole\bin\Debug\net5.0\TesteConsole.deps.json
+D:\Camillo\PW\CadastroAluno\TesteConsole\bin\Debug\net5.0\TesteConsole.runtimeconfig.json
+D:\Camillo\PW\CadastroAluno\TesteConsole\bin\Debug\net5.0\TesteConsole.runtimeconfig.dev.json
+D:\Camillo\PW\CadastroAluno\TesteConsole\bin\Debug\net5.0\TesteConsole.dll
+D:\Camillo\PW\CadastroAluno\TesteConsole\bin\Debug\net5.0\ref\TesteConsole.dll
+D:\Camillo\PW\CadastroAluno\TesteConsole\bin\Debug\net5.0\TesteConsole.pdb
+D:\Camillo\PW\CadastroAluno\TesteConsole\obj\Debug\net5.0\TesteConsole.csproj.AssemblyReference.cache
+D:\Camillo\PW\CadastroAluno\TesteConsole\obj\Debug\net5.0\TesteConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camillo\PW\CadastroAluno\TesteConsole\obj\Debug\net5.0\TesteConsole.AssemblyInfoInputs.cache
+D:\Camillo\PW\CadastroAluno\TesteConsole\obj\Debug\net5.0\TesteConsole.AssemblyInfo.cs
+D:\Camillo\PW\CadastroAluno\TesteConsole\obj\Debug\net5.0\TesteConsole.csproj.CoreCompileInputs.cache
+D:\Camillo\PW\CadastroAluno\TesteConsole\obj\Debug\net5.0\TesteConsole.dll
+D:\Camillo\PW\CadastroAluno\TesteConsole\obj\Debug\net5.0\ref\TesteConsole.dll
+D:\Camillo\PW\CadastroAluno\TesteConsole\obj\Debug\net5.0\TesteConsole.pdb
+D:\Camillo\PW\CadastroAluno\TesteConsole\obj\Debug\net5.0\TesteConsole.genruntimeconfig.cache

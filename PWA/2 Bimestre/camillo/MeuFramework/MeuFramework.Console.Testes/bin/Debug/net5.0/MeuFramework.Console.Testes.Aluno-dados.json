@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Id": "1",
+    "Matricula": 123,
+    "Nome": "Ana"
+  },
+  {
+    "Id": "2",
+    "Matricula": 125,
+    "Nome": "Bruno"
+  },
+  {
+    "Id": "3",
+    "Matricula": 127,
+    "Nome": "Carlos"
+  },
+  {
+    "Id": "1",
+    "Matricula": 123,
+    "Nome": "Ana"
+  },
+  {
+    "Id": "2",
+    "Matricula": 125,
+    "Nome": "Bruno"
+  },
+  {
+    "Id": "3",
+    "Matricula": 127,
+    "Nome": "Carlos"
+  }
+]

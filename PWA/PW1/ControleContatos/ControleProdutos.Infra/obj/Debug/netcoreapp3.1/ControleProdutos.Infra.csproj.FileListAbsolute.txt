@@ -1,0 +1,30 @@
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.deps.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.runtimeconfig.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.runtimeconfig.dev.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.csproj.AssemblyReference.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.AssemblyInfoInputs.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.AssemblyInfo.cs
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.csproj.CoreCompileInputs.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.csproj.CopyComplete
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.genruntimeconfig.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.csproj.AssemblyReference.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.AssemblyInfoInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.AssemblyInfo.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.deps.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.runtimeconfig.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.runtimeconfig.dev.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.csproj.CopyComplete
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Infra\obj\Debug\netcoreapp3.1\ControleProdutos.Infra.genruntimeconfig.cache

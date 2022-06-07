@@ -1,0 +1,16 @@
+D:\pwa\Observadores\Observadores\Observadores\obj\Debug\net5.0\Observadores.csproj.AssemblyReference.cache
+D:\pwa\Observadores\Observadores\Observadores\obj\Debug\net5.0\Observadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\pwa\Observadores\Observadores\Observadores\obj\Debug\net5.0\Observadores.AssemblyInfoInputs.cache
+D:\pwa\Observadores\Observadores\Observadores\obj\Debug\net5.0\Observadores.AssemblyInfo.cs
+D:\pwa\Observadores\Observadores\Observadores\obj\Debug\net5.0\Observadores.csproj.CoreCompileInputs.cache
+D:\pwa\Observadores\Observadores\Observadores\bin\Debug\net5.0\Observadores.exe
+D:\pwa\Observadores\Observadores\Observadores\bin\Debug\net5.0\Observadores.deps.json
+D:\pwa\Observadores\Observadores\Observadores\bin\Debug\net5.0\Observadores.runtimeconfig.json
+D:\pwa\Observadores\Observadores\Observadores\bin\Debug\net5.0\Observadores.runtimeconfig.dev.json
+D:\pwa\Observadores\Observadores\Observadores\bin\Debug\net5.0\Observadores.dll
+D:\pwa\Observadores\Observadores\Observadores\bin\Debug\net5.0\ref\Observadores.dll
+D:\pwa\Observadores\Observadores\Observadores\bin\Debug\net5.0\Observadores.pdb
+D:\pwa\Observadores\Observadores\Observadores\obj\Debug\net5.0\Observadores.dll
+D:\pwa\Observadores\Observadores\Observadores\obj\Debug\net5.0\ref\Observadores.dll
+D:\pwa\Observadores\Observadores\Observadores\obj\Debug\net5.0\Observadores.pdb
+D:\pwa\Observadores\Observadores\Observadores\obj\Debug\net5.0\Observadores.genruntimeconfig.cache

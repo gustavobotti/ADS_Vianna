@@ -1,0 +1,24 @@
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.deps.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.runtimeconfig.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.runtimeconfig.dev.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.csproj.AssemblyReference.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.AssemblyInfoInputs.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.AssemblyInfo.cs
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.csproj.CoreCompileInputs.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.genruntimeconfig.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.deps.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.runtimeconfig.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.runtimeconfig.dev.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.csproj.AssemblyReference.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.AssemblyInfoInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.AssemblyInfo.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Entidades\obj\Debug\netcoreapp3.1\ControleProdutos.Entidades.genruntimeconfig.cache

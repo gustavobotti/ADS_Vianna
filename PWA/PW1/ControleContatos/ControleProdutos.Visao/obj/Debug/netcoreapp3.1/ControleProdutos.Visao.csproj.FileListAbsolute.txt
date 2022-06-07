@@ -1,0 +1,203 @@
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.exe
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.deps.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.runtimeconfig.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.runtimeconfig.dev.json
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.csproj.AssemblyReference.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProduto.g.cs
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoContato.g.cs
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoLista.g.cs
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao_MarkupCompile.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao_MarkupCompile.lref
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProduto.baml
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoContato.baml
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoLista.baml
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.g.resources
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.AssemblyInfoInputs.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.AssemblyInfo.cs
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.csproj.CoreCompileInputs.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.csproj.CopyComplete
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.pdb
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.genruntimeconfig.cache
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Users\-\Desktop\Coding\ViannaJr2021-2\Programação Windows\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.exe
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.deps.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.runtimeconfig.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.runtimeconfig.dev.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.csproj.AssemblyReference.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProduto.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoContato.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoLista.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao_MarkupCompile.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao_MarkupCompile.lref
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProduto.baml
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoContato.baml
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoLista.baml
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.g.resources
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.AssemblyInfoInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.AssemblyInfo.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.csproj.CopyComplete
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleContatos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.genruntimeconfig.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.exe
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.deps.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.runtimeconfig.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.runtimeconfig.dev.json
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Visao.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Entidades.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\bin\Debug\netcoreapp3.1\ControleProdutos.Infra.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.csproj.AssemblyReference.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\Views\WProduto.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoContato.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoLista.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao_MarkupCompile.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao_MarkupCompile.lref
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\Views\WProduto.baml
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoContato.baml
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\Views\WProdutoLista.baml
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.g.resources
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.AssemblyInfoInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.AssemblyInfo.cs
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.csproj.CopyComplete
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.dll
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.pdb
+C:\Users\Estudo\Desktop\ControleContatos\ControleProdutos.Visao\obj\Debug\netcoreapp3.1\ControleProdutos.Visao.genruntimeconfig.cache

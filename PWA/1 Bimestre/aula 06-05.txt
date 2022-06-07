@@ -1,0 +1,2 @@
+meuframework.persistencia -> publish folder -> pega o link
+cadastroaluno -> dependencias -> add dlls

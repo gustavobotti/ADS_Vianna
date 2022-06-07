@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Teste>;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Meu objeto</h1><br />
+<div>
+    @foreach (var item in Model)
+    {
+        <p><span>Propriedade 1: @item.Propriedade1</span></p>
+        <p><span>Propriedade 2: @item.Propriedade2</span></p>
+        <p><span>ID: @item.Id</span></p>
+        <p>#################################################</p>
+    }
+</div>

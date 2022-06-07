@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MeuFramework.Entidades/1.0.0": {
+        "runtime": {
+          "MeuFramework.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MeuFramework.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

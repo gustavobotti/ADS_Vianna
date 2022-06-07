@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\TestesOO\Observadores\obj\Debug\net5.0\Observadores.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\TestesOO\Observadores\obj\Debug\net5.0\Observadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\TestesOO\Observadores\obj\Debug\net5.0\Observadores.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\TestesOO\Observadores\obj\Debug\net5.0\Observadores.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\TestesOO\Observadores\obj\Debug\net5.0\Observadores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TestesOO\Observadores\bin\Debug\net5.0\Observadores.exe
+C:\Users\Aluno\Desktop\TestesOO\Observadores\bin\Debug\net5.0\Observadores.deps.json
+C:\Users\Aluno\Desktop\TestesOO\Observadores\bin\Debug\net5.0\Observadores.runtimeconfig.json
+C:\Users\Aluno\Desktop\TestesOO\Observadores\bin\Debug\net5.0\Observadores.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\TestesOO\Observadores\bin\Debug\net5.0\Observadores.dll
+C:\Users\Aluno\Desktop\TestesOO\Observadores\bin\Debug\net5.0\ref\Observadores.dll
+C:\Users\Aluno\Desktop\TestesOO\Observadores\bin\Debug\net5.0\Observadores.pdb
+C:\Users\Aluno\Desktop\TestesOO\Observadores\obj\Debug\net5.0\Observadores.dll
+C:\Users\Aluno\Desktop\TestesOO\Observadores\obj\Debug\net5.0\ref\Observadores.dll
+C:\Users\Aluno\Desktop\TestesOO\Observadores\obj\Debug\net5.0\Observadores.pdb
+C:\Users\Aluno\Desktop\TestesOO\Observadores\obj\Debug\net5.0\Observadores.genruntimeconfig.cache

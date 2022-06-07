@@ -1,0 +1,15 @@
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\bin\Debug\net5.0\MeuFramework.Persistencia.deps.json
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\bin\Debug\net5.0\MeuFramework.Persistencia.dll
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\bin\Debug\net5.0\ref\MeuFramework.Persistencia.dll
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\bin\Debug\net5.0\MeuFramework.Persistencia.pdb
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\bin\Debug\net5.0\MeuFramework.Entidades.dll
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\bin\Debug\net5.0\MeuFramework.Entidades.pdb
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\obj\Debug\net5.0\MeuFramework.Persistencia.csproj.AssemblyReference.cache
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\obj\Debug\net5.0\MeuFramework.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\obj\Debug\net5.0\MeuFramework.Persistencia.AssemblyInfoInputs.cache
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\obj\Debug\net5.0\MeuFramework.Persistencia.AssemblyInfo.cs
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\obj\Debug\net5.0\MeuFramework.Persistencia.csproj.CoreCompileInputs.cache
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\obj\Debug\net5.0\MeuFramework.Persistencia.csproj.CopyComplete
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\obj\Debug\net5.0\MeuFramework.Persistencia.dll
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\obj\Debug\net5.0\ref\MeuFramework.Persistencia.dll
+D:\Camillo\PWA\MeuFramework\MeuFramework.Persistencia\obj\Debug\net5.0\MeuFramework.Persistencia.pdb
