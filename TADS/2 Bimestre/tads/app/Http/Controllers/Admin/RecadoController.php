@@ -9,23 +9,15 @@ class RecadoController extends Controller
 {
     public function create()
     {
-        return view('posts.create');
+     return view('recados.create');
     }
 
     public function store(Request $request)
     {
-        if ($request->has('nome') || $request->has('email') || $request->has('cidade') || $request->has('recado')){ /* Armazena os dados */
-            //dd($request->query('armazena'));
-            //dd($request->except('title'));
-            //dd($request->only('title', 'slug'));
-            //dd($request->title);
-            //return response("Retorno do request", 200);
-            return redirect()->route('posts.create');
-            //return back()->withInput();
-        } else {
+        if (empty($request->nome) || empty($request->cidade) || empty($request->email) || empty($request->recado)){
             return back()->withInput();
+        }else{
+            dd($request->all());
         }
-        //dd($request->input('title'));
-        //dd($request->all());
     }
 }

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppMedidas</string>
+    <string name="txtBoasVindas">Cálculo de IMC</string>
+    <string name="AppTitle">Cálculo de IMC</string>
+    <string name="lblNome">Nome: </string>
+    <string name="buttonOK">Calcular</string>
+    <string name="lblIdade">Idade: </string>
+    <string name="lblAltura">Altura: </string>
+    <string name="lblPeso">Peso: </string>
+</resources>

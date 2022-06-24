@@ -1,9 +1,11 @@
 <?php
 
 use App\Http\Controllers\Admin\PostController;
-use App\Http\Controllers\IndexController;
-use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\RecadoController;
+use App\Http\Controllers\IndexController;
+use App\Http\Controllers\PacienteController;
+use App\Http\Controllers\UserController;
+use Illuminate\Support\Facades\Route;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -18,17 +20,20 @@ use App\Http\Controllers\Admin\RecadoController;
 Route::get('/', IndexController::class)->name('home');
 
 
-//Route::resource('/user',UserController::class);
 
-Route::prefix('admin')->namespace('Admin')->group(function(){
+Route::prefix('admin')->group(function(){
 
-    Route::prefix('recados')->name('recados.')->group(function(){
+    Route::prefix('recados')->namespace('Admin')->name('recados.')->group(function(){
         Route::get('/create',[RecadoController::class,'create'])->name('create');
         Route::post('/store',[RecadoController::class,'store'])->name('store');
     });
 
-    Route::prefix('posts')->name('posts.')->group(function(){
-        Route::get('/create',[PostController::class,'create'])->name('create');
-        Route::post('/store',[PostController::class,'store'])->name('store');
-    });
+    Route::resource('posts',PostController::class);
 });
+
+
+Route::resource('admin/pacientes',PacienteController::class);
+
+Route::resource('admin/users',UserController::class);
+
+Route::get('admin/users/{user}/posts/',[UserController::class,'showPosts'])->name('users.posts');
